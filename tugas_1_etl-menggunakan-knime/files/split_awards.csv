@@ -1,0 +1,442 @@
+"_unit_id","_golden","_unit_state","_trusted_judgments","_last_judgment_at","birthplace","birthplace:confidence","date_of_birth","date_of_birth:confidence","race_ethnicity","race_ethnicity:confidence","religion","religion:confidence","sexual_orientation","sexual_orientation:confidence"
+670454353,"FALSE","finalized",3,"2/10/15 3:45","Chisinau, Moldova",1,"30-Sep-1895",1,"White",1,"Na",1,"Straight",1
+670454354,"FALSE","finalized",3,"2/10/15 2:03","Glasgow, Scotland",1,"2-Feb-1886",1,"White",1,"Na",1,"Straight",0.6842
+670454355,"FALSE","finalized",3,"2/10/15 2:05","Chisinau, Moldova",1,"30-Sep-1895",1,"White",1,"Na",1,"Straight",1
+670454356,"FALSE","finalized",3,"2/10/15 2:04","Chicago, Il",1,"23-Feb-1899",1,"White",1,"Na",1,"Straight",1
+670454357,"FALSE","finalized",3,"2/10/15 1:48","Salt Lake City, Ut",1,"23-Apr-1894",1,"White",1,"Roman Catholic",1,"Straight",1
+670454358,"FALSE","finalized",3,"2/10/15 3:50","Glasgow, Scotland",1,"2-Feb-1886",1,"White",1,"Na",1,"Straight",1
+670454359,"FALSE","finalized",3,"2/10/15 2:07","Bisacquino, Sicily, Italy",1,"18-May-1897",1,"White",1,"Roman Catholic",1,"Straight",1
+670454360,"FALSE","finalized",3,"2/10/15 1:46","Cape Elizabeth, Me",1,"1-Feb-1894",1,"White",1,"Roman Catholic",1,"Bisexual",1
+670454361,"FALSE","finalized",3,"2/10/15 1:47","Bisacquino, Sicily, Italy",1,"18-May-1897",1,"White",1,"Roman Catholic",1,"Straight",1
+670454362,"FALSE","finalized",3,"2/10/15 2:05","Los Angeles, Ca",1,"3-Oct-1898",1,"White",1,"Na",1,"Straight",1
+670454363,"FALSE","finalized",3,"2/10/15 2:04","Bisacquino, Sicily, Italy",1,"18-May-1897",1,"White",1,"Roman Catholic",1,"Straight",1
+670454364,"FALSE","finalized",3,"2/10/15 2:10","Pasadena, Ca",1,"23-Feb-1883",1,"White",1,"Na",1,"Straight",1
+670454365,"FALSE","finalized",3,"2/10/15 2:12","Cape Elizabeth, Me",1,"1-Feb-1894",1,"White",1,"Roman Catholic",1,"Bisexual",1
+670454366,"FALSE","finalized",3,"2/10/15 2:02","Cape Elizabeth, Me",1,"1-Feb-1894",1,"White",1,"Roman Catholic",1,"Bisexual",1
+670454367,"FALSE","finalized",3,"2/10/15 3:57","Mulhouse, Haut-Rhin, Alsace, France",1,"1-Jul-1902",1,"White",1,"Na",1,"Straight",1
+670454368,"FALSE","finalized",3,"2/10/15 2:02","Budapest, Hungary",1,"24-Dec-1886",1,"White",1,"Na",1,"Straight",1
+670454369,"FALSE","finalized",3,"2/10/15 2:29","Los Angeles, Ca",1,"3-Oct-1898",1,"White",1,"Na",1,"Straight",1
+670454370,"FALSE","finalized",3,"2/10/15 1:55","New York City",1,"11-Oct-18",1,"White",1,"Jewish",1,"Gay",1
+670454371,"FALSE","finalized",3,"2/10/15 4:02","Sucha, Galicia, Austria",0.6667,"22-Jun-06",1,"White",1,"Jewish",1,"Straight",1
+670454372,"FALSE","finalized",3,"2/10/15 2:12","Mulhouse, Haut-Rhin, Alsace, France",1,"1-Jul-1902",1,"White",1,"Na",1,"Straight",1
+670454373,"FALSE","finalized",3,"2/10/15 1:46","Istanbul, Turkey",1,"7-Sep-09",1,"White",1,"Na",1,"Straight",1
+670454374,"TRUE","golden",82,,"Nevada, Mo",1,"5-Aug-06",1,"White",1,"Na",1,"Straight",1
+670454375,"FALSE","finalized",3,"2/10/15 3:50","Wilkes-Barre, Pa",1,"11-Feb-09",1,"White",1,"Jewish",1,"Straight",1
+670454376,"FALSE","finalized",3,"2/10/15 1:51","Wilkes-Barre, Pa",1,"11-Feb-09",1,"White",1,"Jewish",1,"Straight",1
+670454377,"FALSE","finalized",3,"2/10/15 2:15","Oakland, Ca",1,"18-Dec-04",1,"White",1,"Na",1,"Straight",1
+670454378,"FALSE","finalized",3,"2/10/15 2:15","Cape Elizabeth, Me",1,"1-Feb-1894",1,"White",1,"Roman Catholic",1,"Bisexual",1
+670454379,"FALSE","finalized",3,"2/10/15 1:57","Vienna, Austria",1,"29-Apr-07",1,"White",1,"Jewish",1,"Straight",1
+670454380,"FALSE","finalized",3,"2/10/15 3:50","Istanbul, Turkey",1,"7-Sep-09",1,"White",1,"Na",1,"Straight",1
+670454381,"FALSE","finalized",3,"2/10/15 3:53","Lawrence, Ks",1,"30-Jan-20",1,"White",1,"Presbyterian",1,"Straight",1
+670454382,"FALSE","finalized",3,"2/10/15 3:50","Oakland, Ca",1,"18-Dec-04",1,"White",1,"Na",1,"Straight",1
+670454383,"FALSE","finalized",3,"2/10/15 2:07","Croydon, Surrey, England",0.6667,"25-Mar-08",1,"White",1,"Na",1,"Straight",0.6667
+670454384,"FALSE","finalized",3,"2/10/15 1:52","Chicago, Il",1,"28-Feb-1903",1,"White",1,"Na",1,"Bisexual",1
+670454385,"FALSE","finalized",3,"2/10/15 1:55","Mulhouse, Haut-Rhin, Alsace, France",1,"1-Jul-1902",1,"White",1,"Na",1,"Straight",1
+670454386,"TRUE","golden",87,,"Sucha, Galicia, Austria",1,"22-Jun-06",1,"White",1,"Jewish",0.963,"Straight",1
+670454387,"FALSE","finalized",3,"2/10/15 1:55","Winchester, In",1,"10-Sep-14",1,"White",1,"Na",1,"Straight",1
+670454388,"FALSE","finalized",3,"2/10/15 2:05","Croydon, Surrey, England",1,"25-Mar-08",1,"White",1,"Na",1,"Straight",1
+670454389,"FALSE","finalized",3,"2/10/15 1:57","Shipley, Yorkshire, England",1,"5-Jun-28",1,"White",1,"Na",1,"Bisexual",1
+670454390,"FALSE","finalized",3,"2/10/15 1:52","New York City",1,"7-Jul-1899",1,"White",1,"Na",0.6571,"Gay",0.6571
+670454391,"FALSE","finalized",3,"2/10/15 1:51","Winchester, In",1,"10-Sep-14",1,"White",1,"Na",1,"Straight",1
+670454392,"FALSE","finalized",3,"2/10/15 2:06","Vienna, Austria",1,"29-Apr-07",1,"White",1,"Jewish",1,"Straight",1
+670454393,"FALSE","finalized",3,"2/10/15 2:13","Berlin, Germany",1,"6-Nov-31",1,"White",1,"Jewish",1,"Straight",1
+670454394,"FALSE","finalized",3,"2/10/15 3:56","St. Louis Park, Mn",1,"29-Nov-54",1,"White",1,"Jewish",1,"Straight",1
+670454395,"FALSE","finalized",3,"2/10/15 2:29","London, England",1,"30-Dec-06",1,"White",1,"Na",1,"Straight",1
+670454396,"FALSE","finalized",3,"2/10/15 2:01","London, England",1,"16-Feb-26",1,"White",1,"Na",1,"Gay",1
+670454397,"FALSE","finalized",3,"2/10/15 3:56","Tokyo, Japan",1,"30-May-20",1,"White",1,"Na",1,"Straight",1
+670454398,"FALSE","finalized",3,"2/10/15 2:11","Chicago, Il",1,"29-Aug-35",1,"White",1,"Jewish",1,"Straight",1
+670454399,"FALSE","finalized",3,"2/10/15 1:51","Chicago, Il",1,"23-Jun-27",1,"White",1,"Na",1,"Straight",1
+670454400,"FALSE","finalized",3,"2/10/15 2:05","Minneapolis, Mn",1,"20-Dec-21",1,"White",1,"Na",1,"Straight",1
+670454401,"FALSE","finalized",3,"2/10/15 2:15","Detroit, Mi",1,"7-Apr-39",1,"White",1,"Na",1,"Straight",1
+670454402,"FALSE","finalized",3,"2/10/15 1:59","CÃ¡slav, Czechoslovakia",1,"18-Feb-32",1,"White",1,"Na",1,"Straight",1
+670454403,"FALSE","finalized",3,"2/10/15 2:06","Oak Park, Il",1,"21-Dec-35",1,"White",1,"Na",1,"Straight",1
+670454404,"FALSE","finalized",3,"2/10/15 2:14","Brooklyn, Ny",1,"1-Dec-35",1,"White",1,"Jewish",1,"Straight",1
+670454405,"TRUE","golden",75,,"New York City",1,"3-Feb-39",0.9597,"White",1,"Na",1,"Straight",1
+670454406,"FALSE","finalized",3,"2/10/15 4:02","Waxahachie, Tx",1,"29-Sep-32",1,"White",1,"Na",1,"Straight",1
+670454407,"FALSE","finalized",3,"2/10/15 4:07","Santa Monica, Ca",1,"18-Aug-1936 [1]",0.6562,"White",1,"Na",1,"Straight",1
+670454408,"FALSE","finalized",3,"2/10/15 1:43","Richmond, Va",1,"30-Mar-37",1,"White",1,"Baptist",1,"Straight",1
+670454409,"FALSE","finalized",3,"2/10/15 2:00","Cambridge, England",1,"29-Aug-23",1,"White",1,"Na",1,"Straight",1
+670454410,"FALSE","finalized",3,"2/10/15 2:12","North Bergen, Nj",1,"9-May-40",1,"White",1,"Na",1,"Straight",1
+670454411,"FALSE","finalized",3,"2/10/15 2:12","CÃ¡slav, Czechoslovakia",1,"18-Feb-32",1,"White",1,"Na",1,"Straight",1
+670454412,"FALSE","finalized",3,"2/10/15 1:52","Lafayette, In",1,"1-Jul-34",1,"White",1,"Jewish",1,"Straight",1
+670454413,"FALSE","finalized",3,"2/10/15 2:18","New York City",1,"15-Sep-46",1,"White",1,"Atheist",1,"Straight",1
+670454414,"FALSE","finalized",3,"2/10/15 2:05","Parma, Emilia-Romagna, Italy",1,"16-Mar-41",1,"White",1,"Na",1,"Straight",1
+670454415,"FALSE","finalized",3,"2/10/15 1:51","Baltimore, Md",1,"6-Apr-42",1,"White",1,"Jewish",0.6667,"Straight",1
+670454416,"FALSE","finalized",3,"2/10/15 2:07","New York City",1,"15-Sep-46",1,"White",1,"Atheist",1,"Straight",1
+670454417,"FALSE","finalized",3,"2/10/15 1:55","Lynwood, Ca",1,"18-Jan-55",1,"White",1,"Baptist",1,"Straight",1
+670454418,"FALSE","finalized",3,"2/10/15 2:11","Baldwin, Ny",1,"22-Feb-44",1,"White",1,"Na",1,"Straight",1
+670454419,"FALSE","finalized",3,"2/10/15 1:55","San Francisco, Ca",1,"31-May-30",1,"White",1,"Na",1,"Straight",1
+670454420,"FALSE","finalized",3,"2/10/15 3:48","Cincinnati, Oh",1,"18-Dec-46",1,"White",1,"Jewish",1,"Straight",1
+670454421,"FALSE","finalized",3,"2/10/15 2:14","Chicago, Il",1,"14-May-52",1,"White",1,"Roman Catholic",1,"Straight",1
+670454422,"FALSE","finalized",3,"2/10/15 2:11","Peekskill, Ny",1,"3-Jan-56",1,"White",1,"Roman Catholic",1,"Straight",1
+670454423,"FALSE","finalized",3,"2/10/15 2:19","Ryde, Isle of Wight, England",1,"6-Jan-54",1,"White",1,"Na",1,"Straight",1
+670454424,"FALSE","finalized",3,"2/10/15 1:53","Kapuskasing, Ontario, Canada",1,"16-Aug-54",1,"White",1,"Atheist",0.6667,"Straight",1
+670454425,"FALSE","finalized",3,"2/10/15 3:55","Cincinnati, Oh",1,"18-Dec-46",1,"White",1,"Jewish",1,"Straight",1
+670454426,"FALSE","finalized",3,"2/10/15 3:45","Reading, Berkshire, England",1,"1-Aug-65",1,"White",1,"Na",1,"Straight",1
+670454427,"FALSE","finalized",3,"2/10/15 2:00","Atlanta, Ga",1,"14-Jan-63",1,"White",1,"Atheist",1,"Straight",1
+670454428,"FALSE","finalized",3,"2/10/15 3:51","Duncan, Ok",1,"1-Mar-54",1,"White",1,"Na",1,"Straight",1
+670454429,"FALSE","finalized",3,"2/10/15 2:04","Paris, France",1,"18-Aug-33",1,"White",1,"See Note",0.3333,"Straight",1
+670454430,"FALSE","finalized",3,"2/10/15 2:09","Wellington, New Zealand",1,"31-Oct-61",1,"White",1,"Na",1,"Straight",1
+670454431,"FALSE","finalized",3,"2/10/15 2:00","San Francisco, Ca",1,"31-May-30",1,"White",1,"Na",1,"Straight",1
+670454432,"FALSE","finalized",3,"2/10/15 2:09","Pingtung, Taiwan",1,"23-Oct-54",1,"Asian",1,"Na",1,"Straight",1
+670454433,"FALSE","finalized",3,"2/10/15 1:43","Flushing, Ny",1,"17-Nov-42",1,"White",1,"Roman Catholic",1,"Straight",1
+670454434,"FALSE","finalized",3,"2/10/15 2:05","St. Louis Park, Mn",1,"21-Sep-57",1,"White",1,"Jewish",1,"Straight",1
+670454435,"TRUE","golden",81,,"Manchester, England",1,"20-Oct-56",1,"White",1,"Roman Catholic",0.9624,"Straight",1
+670454436,"FALSE","finalized",3,"2/10/15 1:46","San Carlos, Ca",1,"27-Nov-51",1,"White",1,"Na",1,"Straight",1
+670454437,"FALSE","finalized",3,"2/10/15 1:56","London, England",1,"1972",1,"White",1,"Na",1,"Na",1
+670454438,"FALSE","finalized",3,"2/10/15 3:57","Paris, France",1,"29-Mar-67",1,"White",1,"Jewish",1,"Straight",1
+670454439,"FALSE","finalized",3,"2/10/15 2:04","Pingtung, Taiwan",1,"23-Oct-54",1,"Asian",1,"Na",1,"Straight",1
+670454440,"FALSE","finalized",3,"2/10/15 2:04","Rorschach, Switzerland",1,"23-Jul-1884",1,"White",1,"Na",1,"Bisexual",1
+670454441,"FALSE","finalized",3,"2/10/15 1:58","Columbus, Oh",1,"29-Mar-1889",1,"White",1,"Na",1,"Straight",1
+670454442,"FALSE","finalized",3,"2/10/15 2:41","London, England",1,"10-Apr-1868",1,"White",1,"Na",0.6897,"Straight",1
+670454443,"FALSE","finalized",3,"2/10/15 2:04","Philadelphia, Pa",1,"28-Apr-1878",1,"White",1,"Roman Catholic",1,"Straight",1
+670454444,"FALSE","finalized",3,"2/10/15 1:59","Kansas City, Mo",1,"1-Apr-1885",1,"White",1,"Na",1,"Straight",1
+670454445,"FALSE","finalized",3,"2/10/15 2:19","Victoria Hotel, Scarborough, Yorkshire, England",1,"1-Jul-1899",1,"White",1,"Roman Catholic",1,"Gay",1
+670454446,"FALSE","finalized",3,"2/10/15 2:08","Cadiz, Oh",1,"1-Feb-1901",1,"White",1,"Na",1,"Straight",1
+670454447,"FALSE","finalized",3,"2/10/15 2:05","Tunbridge Wells, Kent, England",1,"11-Dec-1883",1,"White",1,"Anglican/episcopalian",1,"Straight",1
+670454448,"FALSE","finalized",3,"2/10/15 2:06","Lviv, Ukraine",1,"22-Sep-1895",1,"White",1,"Jewish",1,"Straight",1
+670454449,"FALSE","finalized",3,"2/10/15 4:07","Milwaukee, Wi",1,"5-Apr-1900",1,"White",1,"Roman Catholic",1,"Straight",1
+670454450,"FALSE","finalized",3,"2/10/15 2:06","Milwaukee, Wi",1,"5-Apr-1900",1,"White",1,"Roman Catholic",1,"Straight",1
+670454451,"FALSE","finalized",3,"2/10/15 2:00","Withington, Manchester, England",1,"18-Mar-05",1,"White",1,"Na",1,"Straight",1
+670454452,"FALSE","finalized",3,"2/10/15 2:12","Indiana, Pa",1,"20-May-08",1,"White",1,"Presbyterian",1,"Straight",1
+670454453,"FALSE","finalized",3,"2/10/15 3:48","Helena, Mt",1,"7-May-1901",1,"White",1,"Roman Catholic",1,"Straight",1
+670454454,"FALSE","finalized",3,"2/10/15 1:51","Manhattan, Ny",1,"17-Jul-1899",1,"White",1,"Roman Catholic",1,"Straight",1
+670454455,"FALSE","finalized",3,"2/10/15 2:05","Budapest, Hungary",1,"26-May-1887",1,"White",1,"Na",1,"Straight",1
+670454456,"FALSE","finalized",3,"2/10/15 2:03","Tacoma, Wa",1,"3-May-1903",1,"White",1,"Roman Catholic",0.6667,"Straight",1
+670454457,"FALSE","finalized",3,"2/10/15 2:41","Neath, Wales",1,"3-Jan-07",1,"White",1,"Na",0.6897,"Straight",1
+670454458,"FALSE","finalized",3,"2/10/15 1:59","Racine, Wi",1,"31-Aug-1897",1,"White",1,"Na",1,"Straight",1
+670454459,"FALSE","finalized",3,"2/10/15 2:02","Richmond, Surrey, England",1,"9-Feb-1891",1,"White",1,"Na",1,"Straight",1
+670454460,"FALSE","finalized",3,"2/10/15 2:03","Dorking, Surrey, England",1,"22-May-07",1,"White",1,"Na",1,"Bisexual",1
+670454461,"FALSE","finalized",3,"2/10/15 4:06","Philadelphia, Pa",1,"9-Dec-11",1,"White",1,"Na",1,"Straight",1
+670454462,"FALSE","finalized",3,"2/10/15 1:53","Santurce, Puerto Rico",1,"8-Jan-09",1,"Hispanic",1,"Na",1,"Straight",1
+670454463,"FALSE","finalized",3,"2/10/15 2:05","New York City",1,"25-Dec-1899",1,"White",1,"Na",1,"Straight",1
+670454464,"TRUE","golden",95,,"Helena, Mt",1,"7-May-1901",1,"White",1,"Roman Catholic",1,"Straight",1
+670454465,"FALSE","finalized",3,"2/10/15 1:46","O'fallon, Il",1,"17-Apr-18",1,"White",1,"Na",1,"Straight",1
+670454466,"FALSE","finalized",3,"2/10/15 1:53","Omaha, Ne",1,"3-Apr-24",1,"White",1,"Deist",1,"Bisexual",1
+670454467,"FALSE","finalized",3,"2/10/15 2:02","Hamden, Ct",1,"24-Jan-17",1,"White",1,"Na",1,"Straight",1
+670454468,"FALSE","finalized",3,"2/10/15 2:02","Vladivostok, Russia",1,"11-Jul-20",1,"White",1,"Na",1,"Straight",1
+670454469,"FALSE","finalized",3,"2/10/15 2:03","London, England",1,"2-Apr-14",1,"White",1,"Roman Catholic",1,"Bisexual",1
+670454470,"FALSE","finalized",3,"2/10/15 2:03","London, England",1,"1-Mar-09",1,"White",1,"Na",1,"Straight",1
+670454471,"FALSE","finalized",3,"2/10/15 3:50","Evanston, Il",1,"4-Oct-23",1,"White",1,"Protestant",1,"Straight",1
+670454472,"FALSE","finalized",3,"2/10/15 2:01","New York City",1,"2-Nov-13",1,"White",1,"Protestant",1,"Straight",1
+670454473,"FALSE","finalized",3,"2/10/15 2:11","Vienna, Austria",1,"8-Dec-30",1,"White",1,"Na",1,"Straight",1
+670454474,"FALSE","finalized",3,"2/10/15 2:18","La Jolla, Ca",1,"5-Apr-16",1,"White",1,"Roman Catholic",1,"Straight",1
+670454475,"FALSE","finalized",3,"2/10/15 2:03","Miami, Fl",1,"20-Feb-27",1,"Black",1,"Deist",1,"Straight",1
+670454476,"FALSE","finalized",3,"2/10/15 1:55","Huyton, Lancashire, England",1,"5-Mar-08",1,"White",1,"Na",1,"Straight",1
+670454477,"FALSE","finalized",3,"2/10/15 3:48","New York City",1,"19-Feb-24",1,"White",1,"Na",1,"Straight",1
+670454478,"FALSE","finalized",3,"2/10/15 1:53","Hurstpierpoint, West Sussex, England",1,"21-Jan-22",1,"White",1,"Na",1,"Straight",1
+670454479,"FALSE","finalized",3,"2/10/15 1:51","Westhampton, Ny",1,"14-Apr-25",1,"White",1,"Lutheran",1,"Straight",1
+670454480,"FALSE","finalized",3,"2/10/15 2:14","La Jolla, Ca",1,"9-Sep-23",1,"White",1,"Na",1,"Straight",1
+670454481,"FALSE","finalized",3,"2/10/15 1:55","Winterset, Ia",1,"26-May-07",1,"White",1,"Roman Catholic",1,"Straight",1
+670454482,"FALSE","finalized",3,"2/10/15 1:57","Wise, Va",1,"18-Oct-27",1,"White",1,"Na",1,"Straight",1
+670454483,"FALSE","finalized",3,"2/10/15 2:01","San Bernardino, Ca",1,"30-Jan-30",1,"White",1,"Na",1,"Straight",1
+670454484,"FALSE","finalized",3,"2/10/15 2:18","Omaha, Ne",1,"3-Apr-24",1,"White",1,"Deist",1,"Bisexual",0.6667
+670454485,"FALSE","finalized",3,"2/10/15 2:05","Newton, Ma",1,"8-Feb-25",1,"White",1,"Roman Catholic",1,"Straight",1
+670454486,"FALSE","finalized",3,"2/10/15 3:48","Mount Vernon, Ny",1,"4-Nov-18",1,"White",1,"Na",1,"Straight",1
+670454487,"FALSE","finalized",3,"2/10/15 1:51","New York City",1,"22-Apr-37",1,"White",1,"Atheist",1,"Straight",1
+670454488,"FALSE","finalized",3,"2/10/15 3:45","South Kensington, London, England",1,"28-Sep-16",1,"White",1,"Na",1,"Straight",1
+670454489,"FALSE","finalized",3,"2/10/15 1:56","Brooklyn, Ny",1,"29-Oct-47",1,"White",1,"Jewish",1,"Straight",1
+670454490,"FALSE","finalized",3,"2/10/15 1:51","Yonkers, Ny",1,"29-Dec-38",1,"White",1,"Roman Catholic",1,"Straight",1
+670454491,"FALSE","finalized",3,"2/10/15 4:14","Los Angeles, Ca",1,"8-Aug-37",1,"White",1,"Jewish",1,"Straight",1
+670454492,"FALSE","finalized",3,"2/10/15 2:29","New York City",1,"17-Aug-43",1,"White",1,"Roman Catholic",1,"Straight",1
+670454493,"FALSE","finalized",3,"2/10/15 4:02","Grand Island, Ne",1,"16-May-05",1,"White",1,"Na",1,"Straight",1
+670454494,"FALSE","finalized",3,"2/10/15 2:01","Scarborough, Yorkshire, England",1,"31-Dec-43",1,"Multiracial",1,"Quaker",1,"Straight",1
+670454495,"FALSE","finalized",3,"2/10/15 1:52","San Diego, Ca",1,"5-Jan-31",1,"White",1,"Na",1,"Straight",1
+670454496,"FALSE","finalized",3,"2/10/15 2:03","Pittsburgh, Pa",1,"24-Oct-39",1,"Middle Eastern",1,"Na",1,"Straight",1
+670454497,"FALSE","finalized",3,"2/10/15 2:00","Washington, Dc",1,"20-Mar-50",1,"White",1,"Lutheran",1,"Straight",1
+670454498,"FALSE","finalized",3,"2/10/15 2:10","Shaker Heights, Oh",1,"26-Jan-25",1,"White",1,"Jewish",1,"Straight",1
+670454499,"FALSE","finalized",3,"2/10/15 1:51","New Brunswick, Nj",1,"25-Sep-44",1,"White",1,"Jewish",1,"Straight",1
+670454500,"FALSE","finalized",3,"2/10/15 1:58","Los Angeles, Ca",1,"8-Aug-37",1,"White",1,"Jewish",1,"Straight",1
+670454501,"FALSE","finalized",3,"2/10/15 4:06","London, England",1,"29-Apr-57",1,"White",1,"Na",1,"Straight",1
+670454502,"FALSE","finalized",3,"2/10/15 1:59","Cowes, Isle of Wight, England",1,"19-Sep-48",1,"White",1,"Na",1,"Straight",1
+670454503,"FALSE","finalized",3,"2/10/15 3:51","Port Talbot, Wales",1,"31-Dec-37",1,"White",1,"Na",1,"Straight",1
+670454504,"FALSE","finalized",3,"2/10/15 3:56","East Harlem, New York City",1,"25-Apr-40",1,"White",1,"Roman Catholic",1,"Straight",1
+670454505,"TRUE","golden",84,,"Concord, Ca",1,"9-Jul-56",0.9648,"White",1,"Born-Again Christian",1,"Straight",1
+670454506,"FALSE","finalized",3,"2/10/15 1:56","Concord, Ca",1,"9-Jul-56",1,"White",1,"Born-Again Christian",1,"Straight",1
+670454507,"FALSE","finalized",3,"2/10/15 2:10","Long Beach, Ca",1,"7-Jan-64",1,"White",1,"Roman Catholic",1,"Straight",1
+670454508,"FALSE","finalized",3,"2/10/15 2:08","Toowoomba, Queensland, Australia",1,"6-Jul-51",1,"White",1,"Na",1,"Straight",1
+670454509,"FALSE","finalized",3,"2/10/15 1:49","New York City",1,"22-Apr-37",1,"White",1,"Atheist",1,"Straight",1
+670454510,"FALSE","finalized",3,"2/10/15 1:59","Misericordia, Arezzo, Tuscany, Italy",1,"27-Oct-52",1,"White",1,"Na",1,"Straight",1
+670454511,"FALSE","finalized",3,"2/10/15 4:08","South Orange, Nj",1,"26-Jul-59",1,"White",1,"Na",1,"Matter of Dispute",0.6667
+670454512,"FALSE","finalized",3,"2/10/15 4:07","Wellington, New Zealand",1,"7-Apr-64",1,"White",1,"Na",0.6562,"Straight",1
+670454513,"FALSE","finalized",3,"2/10/15 1:49","Mount Vernon, Ny",1,"28-Dec-54",1,"Black",1,"Protestant",1,"Straight",1
+670454514,"FALSE","finalized",3,"2/10/15 2:05","New York City",1,"14-Apr-73",1,"White",1,"Jewish",1,"Straight",1
+670454515,"FALSE","finalized",3,"2/10/15 2:04","Burbank, Ca",1,"17-Aug-60",1,"White",1,"Roman Catholic",1,"Straight",1
+670454516,"FALSE","finalized",3,"2/10/15 2:02","Terrell, Tx",1,"13-Dec-67",1,"Black",1,"Baptist",1,"Straight",1
+670454517,"FALSE","finalized",3,"2/10/15 1:59","Fairport, Ny",1,"23-Jul-67",1,"White",1,"Na",1,"Straight",1
+670454518,"FALSE","finalized",3,"2/10/15 2:07","Longview, Tx",1,"15-Jul-61",1,"Black",1,"Na",1,"Straight",1
+670454519,"FALSE","finalized",3,"2/10/15 2:07","London, England",1,"29-Apr-57",1,"White",1,"Na",1,"Straight",1
+670454520,"FALSE","finalized",3,"2/10/15 2:04","Burbank, Ca",1,"17-Aug-60",1,"White",1,"Roman Catholic",1,"Straight",1
+670454521,"FALSE","finalized",3,"2/10/15 2:05","Los Angeles, Ca",1,"4-Dec-49",1,"White",1,"Lutheran",1,"Straight",1
+670454522,"FALSE","finalized",3,"2/10/15 2:19","Grayshott, Hampshire, England",1,"10-Sep-60",1,"White",1,"Na",1,"Straight",1
+670454523,"FALSE","finalized",3,"2/10/15 3:53","Rueil-Malmaison, Hauts-De-Seine, France",1,"19-Jun-72",1,"White",1,"Na",1,"Straight",1
+670454524,"FALSE","finalized",3,"2/10/15 2:00","London, England",1,"29-Apr-57",1,"White",1,"Na",1,"Straight",1
+670454525,"FALSE","finalized",3,"2/10/15 2:18","Uvalde, Tx",1,"4-Nov-69",1,"White",1,"Na",1,"Straight",1
+670454526,"FALSE","finalized",3,"2/10/15 1:51","Swampscott, Ma",1,"25-Jul-1894",1,"White",1,"Na",1,"Straight",1
+670454527,"FALSE","finalized",3,"2/10/15 1:48","Vienna, Austria",1,"22-Mar-1896",1,"White",1,"Na",1,"Straight",1
+670454528,"FALSE","finalized",3,"2/10/15 1:59","Swampscott, Ma",1,"25-Jul-1894",1,"White",1,"Na",1,"Straight",1
+670454529,"FALSE","finalized",3,"2/10/15 3:58","Elizabeth, Nj",1,"11-Jul-1892",1,"White",1,"Na",1,"Straight",1
+670454530,"FALSE","finalized",3,"2/10/15 3:50","Swampscott, Ma",1,"25-Jul-1894",1,"White",1,"Na",1,"Straight",1
+670454531,"FALSE","finalized",3,"2/10/15 4:07","London, England",1,"27-Jul-1880",1,"White",1,"Na",1,"Straight",1
+670454532,"TRUE","golden",90,,"Walters, Ok",1,"13-Dec-10",1,"White",1,"Na",1,"Straight",1
+670454533,"FALSE","finalized",3,"2/10/15 1:56","Savannah, Ga",1,"17-Jun-1877",1,"White",1,"Na",1,"Straight",1
+670454534,"FALSE","finalized",3,"2/10/15 2:16","Dublin, Ireland",1,"10-Mar-1888",1,"White",1,"Protestant",1,"Na",1
+670454535,"FALSE","finalized",3,"2/10/15 3:51","New York City",1,"2-Nov-1901",1,"White",1,"Na",1,"Straight",1
+670454536,"FALSE","finalized",3,"2/10/15 2:04","North Sydney, Nova Scotia, Canada",1,"14-Jan-14",1,"White",1,"Na",1,"Straight",1
+670454537,"FALSE","finalized",3,"2/10/15 2:07","Vale of Glamorgan, Wales",1,"26-Sep-1875",0.6667,"White",1,"Na",1,"Na",1
+670454538,"FALSE","finalized",3,"2/10/15 2:05","Toronto, Ontario, Canada",1,"6-Apr-1884",1,"White",1,"Na",1,"Straight",1
+670454539,"FALSE","finalized",3,"2/10/15 2:18","Lima, Oh",1,"7-Nov-1903",1,"White",1,"Na",1,"Straight",1
+670454540,"FALSE","finalized",3,"2/10/15 2:08","St. Petersburg, Russia",1,"3-Jul-06",1,"White",1,"Na",1,"Straight",1
+670454541,"FALSE","finalized",3,"2/10/15 1:52","Chicago, Il",1,"22-Mar-12",1,"White",1,"Na",1,"Straight",1
+670454542,"FALSE","finalized",3,"2/10/15 1:51","Chihuahua, Mexico",1,"21-Apr-15",1,"Hispanic",1,"Na",1,"Straight",1
+670454543,"FALSE","finalized",3,"2/10/15 2:06","Hoboken, Nj",1,"12-Dec-15",1,"White",1,"Na",1,"Straight",1
+670454544,"FALSE","finalized",3,"2/10/15 3:51","New York City",1,"10-Sep-15",1,"White",1,"Roman Catholic",1,"Straight",1
+670454545,"FALSE","finalized",3,"2/10/15 2:04","Newton, Ma",1,"8-Feb-25",1,"White",1,"Roman Catholic",1,"Straight",1
+670454546,"FALSE","finalized",3,"2/10/15 3:58","Chihuahua, Mexico",1,"21-Apr-15",1,"Hispanic",1,"Na",1,"Straight",1
+670454547,"FALSE","finalized",3,"2/10/15 4:06","New York City",1,"5-Feb-19",1,"White",1,"Jewish",1,"Straight",1
+670454548,"FALSE","finalized",3,"2/10/15 1:51","Hunt City, Il",1,"14-Jun-09",1,"White",1,"Na",1,"Straight",1
+670454549,"FALSE","finalized",3,"2/10/15 2:03","Marian Glas, Anglesey, Wales",1,"30-May-12",1,"White",1,"Na",1,"Na",1
+670454550,"FALSE","finalized",3,"2/10/15 2:15","London, England",1,"16-Apr-21",1,"White",1,"Na",1,"Straight",1
+670454551,"FALSE","finalized",3,"2/10/15 2:04","Norwood, Oh",1,"16-Sep-34",1,"White",1,"Na",1,"Gay",1
+670454552,"FALSE","finalized",3,"2/10/15 2:03","Hartford, Ct",1,"25-Mar-1901",1,"White",1,"Na",1,"Straight",1
+670454553,"FALSE","finalized",3,"2/10/15 2:16","Macon, Ga",1,"5-Apr-1901",1,"White",1,"Jewish",1,"Straight",1
+670454554,"FALSE","finalized",3,"2/10/15 1:51","London, England",1,"16-Apr-21",1,"White",1,"Na",1,"Straight",1
+670454555,"FALSE","finalized",3,"2/10/15 2:03","Bronx, Ny",1,"4-Nov-19",1,"White",1,"Na",1,"Straight",1
+670454556,"FALSE","finalized",3,"2/10/15 1:59","New York City",1,"1-Oct-20",1,"White",1,"Jewish",1,"Straight",1
+670454557,"FALSE","finalized",3,"2/10/15 2:04","New York City",1,"18-Feb-25",1,"White",1,"Na",1,"Straight",1
+670454558,"TRUE","golden",84,,"Malden, Ma",0.9595,"16-Jun-07",1,"White",1,"Na",1,"Na",1
+670454559,"FALSE","finalized",3,"2/10/15 2:14","St. Cloud, Mn",1,"4-Nov-13",1,"White",1,"Na",1,"Straight",1
+670454560,"FALSE","finalized",3,"2/10/15 1:48","Felixstowe, Suffolk, England",1,"22-Feb-08",1,"White",1,"Na",1,"Straight",1
+670454561,"FALSE","finalized",3,"2/10/15 1:56","Shidler, Ok",1,"13-Jun-18",1,"White",1,"Na",1,"Straight",1
+670454562,"FALSE","finalized",3,"2/10/15 1:52","Cleveland, Oh",1,"11-Apr-32",1,"White",1,"Jewish",1,"Gay",1
+670454563,"FALSE","finalized",3,"2/10/15 2:07","Bucharest, Romania",1,"22-Sep-1902",1,"White",1,"Na",1,"Straight",0.6667
+670454564,"FALSE","finalized",3,"2/10/15 1:53","New York City",1,"17-Aug-43",1,"White",1,"Roman Catholic",1,"Straight",1
+670454565,"FALSE","finalized",3,"2/10/15 1:48","New York City",1,"20-Jan-1896",1,"White",1,"Jewish",1,"Straight",1
+670454566,"TRUE","golden",91,,"Chicago, Il",1,"26-Jul-22",0.9596,"White",1,"Na",1,"Straight",1
+670454567,"FALSE","finalized",3,"2/10/15 1:53","Chicago, Il",1,"26-Jul-22",1,"White",1,"Na",1,"Straight",1
+670454568,"FALSE","finalized",3,"2/10/15 1:46","Astoria, Ny",1,"31-Mar-43",1,"White",1,"Na",1,"Straight",1
+670454569,"FALSE","finalized",3,"2/10/15 2:09","Macon, Ga",1,"5-Apr-1901",1,"White",1,"Jewish",1,"Straight",1
+670454570,"FALSE","finalized",3,"2/10/15 2:18","Malibu, Ca",1,"16-Aug-60",1,"White",1,"Na",1,"Straight",1
+670454571,"FALSE","finalized",3,"2/10/15 2:07","London, England",0.6667,"14-Apr-04",1,"White",1,"Na",1,"Gay",1
+670454572,"FALSE","finalized",3,"2/10/15 3:50","Brooklyn, Ny",1,"27-May-36",1,"Black",1,"Na",1,"Straight",1
+670454573,"FALSE","finalized",3,"2/10/15 2:03","New York City",1,"22-Apr-37",1,"White",1,"Atheist",1,"Straight",1
+670454574,"FALSE","finalized",3,"2/10/15 1:51","Samrong Young, Cambodia",1,"22-Mar-40",1,"Asian",1,"Buddhist",1,"Straight",1
+670454575,"FALSE","finalized",3,"2/10/15 2:04","Kenosha, Wi",1,"31-May-04",1,"White",1,"Roman Catholic",1,"Straight",1
+670454576,"FALSE","finalized",3,"2/10/15 1:55","Bermondsey, England",1,"14-Mar-33",1,"White",1,"Na",1,"Straight",1
+670454577,"FALSE","finalized",3,"2/10/15 3:50","Edinburgh, Scotland",1,"25-Aug-30",1,"White",1,"Roman Catholic",1,"Straight",1
+670454578,"FALSE","finalized",3,"2/10/15 2:18","St. Louis, Mo",1,"24-Oct-47",1,"White",1,"Roman Catholic",1,"Straight",1
+670454579,"FALSE","finalized",3,"2/10/15 2:04","Mount Vernon, Ny",1,"28-Dec-54",1,"Black",1,"Protestant",1,"Straight",1
+670454580,"FALSE","finalized",3,"2/10/15 2:09","Newark, Nj",1,"9-Feb-43",1,"White",1,"Na",1,"Straight",1
+670454581,"FALSE","finalized",3,"2/10/15 1:57","Lattimer Mines, Pa",1,"18-Feb-19",1,"White",1,"Na",1,"Straight",1
+670454582,"FALSE","finalized",3,"2/10/15 1:47","San Bernardino, Ca",1,"30-Jan-30",1,"White",1,"Na",1,"Straight",1
+670454583,"FALSE","finalized",3,"2/10/15 2:04","San Saba, Tx",1,"15-Sep-46",1,"White",1,"Na",1,"Straight",1
+670454584,"FALSE","finalized",3,"2/10/15 2:11","Brooklyn, Ny",1,"20-Jun-31",1,"White",1,"Jewish",1,"Straight",1
+670454585,"FALSE","finalized",3,"2/10/15 2:11","South Orange, Nj",1,"26-Jul-59",1,"White",1,"Na",1,"Matter of Dispute",1
+670454586,"FALSE","finalized",3,"2/10/15 4:21","Bronx, Ny",1,"2-Jan-68",1,"Black",1,"Na",1,"Straight",1
+670454587,"FALSE","finalized",3,"2/10/15 4:08","Chicago, Il",1,"21-Jul-51",1,"White",1,"Anglican/episcopalian",1,"Straight",1
+670454588,"TRUE","golden",62,,"Laurel, Ne",1,"31-Aug-28",1,"White",1,"Na",1,"Straight",1
+670454589,"FALSE","finalized",3,"2/10/15 2:12","Bermondsey, England",1,"14-Mar-33",1,"White",1,"Na",1,"Straight",1
+670454590,"FALSE","finalized",3,"2/10/15 2:04","Santurce, Puerto Rico",1,"19-Feb-67",1,"Hispanic",1,"Na",1,"Straight",1
+670454591,"FALSE","finalized",3,"2/10/15 2:05","Lincoln, Lincolnshire, England",1,"24-May-49",1,"White",1,"Na",1,"Straight",1
+670454592,"FALSE","finalized",3,"2/10/15 2:15","Kansas City, Mo",1,"9-Jul-51",1,"White",1,"Na",1,"Straight",1
+670454593,"FALSE","finalized",3,"2/10/15 2:14","West Covina, Ca",1,"16-Oct-58",1,"White",1,"Roman Catholic",1,"Straight",1
+670454594,"FALSE","finalized",3,"2/10/15 3:55","Memphis, Tn",1,"1-Jun-37",1,"Black",1,"Na",1,"Straight",1
+670454595,"FALSE","finalized",3,"2/10/15 4:02","Lexington, Ky",1,"6-May-61",1,"White",1,"Na",1,"Straight",1
+670454596,"FALSE","finalized",3,"2/10/15 2:15","Brooklyn, Ny",1,"26-Mar-34",1,"White",1,"Jewish",1,"Straight",1
+670454597,"FALSE","finalized",3,"2/10/15 3:50","Las Palmas De Gran Canaria, Canary Islands",1,"1-Mar-69",1,"Hispanic",1,"Na",1,"Straight",1
+670454598,"FALSE","finalized",3,"2/10/15 1:59","Perth, Australia",1,"4-Apr-79",1,"White",1,"Na",1,"Straight",1
+670454599,"FALSE","finalized",3,"2/10/15 2:05","Na",1,"4-Oct-56",1,"White",1,"Na",1,"Straight",1
+670454600,"FALSE","finalized",3,"2/10/15 1:59","Haverfordwest, Pembrokeshire, Wales",1,"30-Jan-74",1,"White",1,"Na",1,"Straight",1
+670454601,"FALSE","finalized",3,"2/10/15 1:57","Toronto, Ontario, Canada",1,"13-Dec-29",1,"White",1,"Na",1,"Straight",1
+670454602,"FALSE","finalized",3,"2/10/15 2:00","Na",0.6571,"4-Oct-56",1,"White",0.6571,"Na",1,"Straight",0.6571
+670454603,"FALSE","finalized",3,"2/10/15 2:08","Bossier City, La",1,"26-Dec-71",1,"White",1,"Na",1,"Straight",1
+670454604,"FALSE","finalized",3,"2/10/15 1:57","Philadelphia, Pa",1,"6-Oct-06",1,"White",1,"Na",1,"Straight",1
+670454605,"FALSE","finalized",3,"2/10/15 1:51","Toronto, Ontario, Canada",1,"8-Apr-1892",1,"White",1,"Na",1,"Straight",1
+670454606,"FALSE","finalized",3,"2/10/15 2:03","Montreal, Quebec, Canada",1,"10-Aug-1902",1,"White",1,"Na",1,"Straight",1
+670454607,"FALSE","finalized",3,"2/10/15 2:05","Cobourg, Ontario, Canada",1,"2-Nov-1868",1,"White",1,"Na",1,"Straight",1
+670454608,"FALSE","finalized",3,"2/10/15 1:49","Washington, Dc",1,"10-Oct-1900",1,"White",1,"Na",1,"Straight",1
+670454609,"FALSE","finalized",3,"2/10/15 4:06","Hartford, Ct",1,"12-May-07",1,"White",1,"Atheist",1,"Bisexual",1
+670454610,"FALSE","finalized",3,"2/10/15 1:59","Paris, France",1,"13-Sep-1903",1,"White",1,"Na",1,"Straight",1
+670454611,"FALSE","finalized",3,"2/10/15 2:03","Lowell, Ma",1,"5-Apr-08",1,"White",1,"Na",1,"Straight",1
+670454612,"FALSE","finalized",3,"2/10/15 2:11","Dusseldorf, Germany",1,"12-Jan-10",1,"White",1,"Jewish",1,"Straight",1
+670454613,"FALSE","finalized",3,"2/10/15 3:58","Dusseldorf, Germany",1,"12-Jan-10",1,"White",1,"Jewish",1,"Straight",1
+670454614,"FALSE","finalized",3,"2/10/15 1:43","Lowell, Ma",1,"5-Apr-08",1,"White",1,"Na",1,"Straight",1
+670454615,"FALSE","finalized",3,"2/10/15 2:29","Darjeeling, India",1,"5-Nov-13",1,"White",1,"Roman Catholic",1,"Straight",1
+670454616,"TRUE","golden",76,,"Independence, Mo",1,"16-Jul-11",1,"White",1,"Christian Science",0.9597,"Straight",1
+670454617,"FALSE","finalized",3,"2/10/15 4:07","Tokyo, Japan",1,"22-Oct-17",1,"White",1,"Na",1,"Straight",1
+670454618,"FALSE","finalized",3,"2/10/15 1:59","London, England",1,"29-Sep-04",1,"White",1,"Na",1,"Straight",1
+670454619,"FALSE","finalized",3,"2/10/15 2:14","Tulsa, Ok",1,"2-Mar-19",1,"White",1,"Roman Catholic",1,"Straight",1
+670454620,"FALSE","finalized",3,"2/10/15 2:04","Stockholm, Sweden",1,"29-Aug-15",1,"White",1,"Na",1,"Straight",1
+670454621,"FALSE","finalized",3,"2/10/15 4:08","San Antonio, Tx",1,"23-Mar-05",1,"White",1,"Christian Science",1,"Bisexual",1
+670454622,"FALSE","finalized",3,"2/10/15 1:47","Tokyo, Japan",1,"1-Jul-16",1,"White",1,"Na",1,"Straight",1
+670454623,"FALSE","finalized",3,"2/10/15 2:00","Salt Lake City, Ut",1,"6-Jan-13",1,"White",1,"Roman Catholic",1,"Straight",1
+670454624,"FALSE","finalized",3,"2/10/15 2:18","St. Joseph, Mo",1,"5-Jan-17",1,"White",1,"Roman Catholic",1,"Straight",1
+670454625,"FALSE","finalized",3,"2/10/15 2:10","Tokyo, Japan",1,"1-Jul-16",1,"White",1,"Na",1,"Straight",1
+670454626,"FALSE","finalized",3,"2/10/15 2:01","New York City",1,"21-Jun-21",1,"White",1,"Na",1,"Straight",1
+670454627,"FALSE","finalized",3,"2/10/15 1:51","Darjeeling, India",1,"5-Nov-13",1,"White",1,"Roman Catholic",1,"Straight",1
+670454628,"FALSE","finalized",3,"2/10/15 2:00","New York City",1,"30-Aug-1898",1,"White",1,"Na",1,"Straight",1
+670454629,"FALSE","finalized",3,"2/10/15 2:00","Brussels, Belgium",1,"4-May-29",1,"White",1,"Christian Science",1,"Straight",1
+670454630,"FALSE","finalized",3,"2/10/15 1:52","Philadelphia, Pa",1,"12-Nov-29",1,"White",1,"Roman Catholic",1,"Straight",1
+670454631,"FALSE","finalized",3,"2/10/15 4:07","Rome, Italy",1,"7-Mar-08",1,"White",1,"Na",1,"Straight",1
+670454632,"FALSE","finalized",3,"2/10/15 4:07","Stockholm, Sweden",1,"29-Aug-15",1,"White",1,"Na",1,"Straight",1
+670454633,"TRUE","golden",75,,"Thomasville, Ga",1,"27-Feb-30",1,"White",1,"Na",1,"Straight",1
+670454634,"FALSE","finalized",3,"2/10/15 1:59","Brooklyn, Ny",1,"30-Jun-18",1,"White",1,"Roman Catholic",1,"Straight",1
+670454635,"FALSE","finalized",3,"2/10/15 2:00","Wiesbaden, Germany",1,"25-Mar-21",1,"White",1,"Na",1,"Straight",1
+670454636,"FALSE","finalized",3,"2/10/15 2:04","London, England",1,"27-Feb-32",1,"White",1,"Jewish",1,"Straight",1
+670454637,"FALSE","finalized",3,"2/10/15 1:51","Pozzuoli, Italy",1,"20-Sep-34",1,"White",1,"Roman Catholic",1,"Straight",1
+670454638,"FALSE","finalized",3,"2/10/15 3:50","Bronx, Ny",1,"17-Sep-31",1,"White",1,"Roman Catholic",1,"Straight",1
+670454639,"FALSE","finalized",3,"2/10/15 2:04","Packard, Ky",1,"20-Jan-26",1,"White",1,"Roman Catholic",1,"Straight",1
+670454640,"FALSE","finalized",3,"2/10/15 3:45","Walton-on-Thames, Surrey, England",1,"1-Oct-35",1,"White",1,"Na",1,"Straight",1
+670454641,"FALSE","finalized",3,"2/10/15 1:59","Chabua, Assam, India",1,"14-Apr-41",1,"White",1,"Na",1,"Straight",1
+670454642,"TRUE","golden",86,,"London, England",1,"27-Feb-32",1,"White",1,"Jewish",1,"Straight",1
+670454643,"FALSE","finalized",3,"2/10/15 1:59","Hartford, Ct",1,"12-May-07",1,"White",1,"Atheist",1,"Bisexual",1
+670454644,"FALSE","finalized",3,"2/10/15 2:05","Brooklyn, Ny",1,"24-Apr-42",1,"White",1,"Jewish",1,"Straight",1
+670454645,"FALSE","finalized",3,"2/10/15 2:03","Hartford, Ct",1,"12-May-07",1,"White",1,"Atheist",1,"Bisexual",1
+670454646,"TRUE","golden",89,,"Ilford, Essex, England",1,"28-Dec-34",1,"White",1,"Na",1,"Straight",1
+670454647,"FALSE","finalized",3,"2/10/15 2:06","Birkenhead, Cheshire, England",1,"9-May-36",1,"White",1,"Na",1,"Straight",1
+670454648,"FALSE","finalized",3,"2/10/15 2:05","New York City",1,"21-Dec-37",1,"White",1,"Born-Again Christian",1,"Straight",1
+670454649,"FALSE","finalized",3,"2/10/15 1:49","Los Angeles, Ca",1,"12-Mar-46",1,"White",1,"Na",1,"Na",1
+670454650,"FALSE","finalized",3,"2/10/15 2:05","Birkenhead, Cheshire, England",1,"9-May-36",1,"White",1,"Na",1,"Straight",1
+670454651,"FALSE","finalized",3,"2/10/15 2:04","Detroit, Mi",1,"7-Dec-32",1,"White",1,"Sufism",0.3333,"Straight",1
+670454652,"FALSE","finalized",3,"2/10/15 1:59","Birmingham, Al",1,"22-Jul-34",1,"White",1,"Na",1,"Straight",1
+670454653,"TRUE","golden",91,,"Bascom, Fl",1,"14-Jan-41",1,"White",1,"Roman Catholic",1,"Straight",0.9599
+670454654,"FALSE","finalized",3,"2/10/15 3:50","Los Angeles, Ca",1,"5-Jan-46",1,"White",1,"Atheist",1,"Straight",1
+670454655,"FALSE","finalized",3,"2/10/15 2:05","New York City",1,"21-Dec-37",1,"White",1,"Born-Again Christian",1,"Straight",1
+670454656,"FALSE","finalized",3,"2/10/15 1:55","Pasadena, Ca",1,"6-Nov-46",1,"White",1,"Na",1,"Straight",1
+670454657,"FALSE","finalized",3,"2/10/15 2:41","Quitman, Tx",1,"25-Dec-49",1,"White",1,"Na",0.6897,"Straight",1
+670454658,"FALSE","finalized",3,"2/10/15 2:04","Hartford, Ct",1,"12-May-07",1,"White",1,"Atheist",1,"Bisexual",1
+670454659,"FALSE","finalized",3,"2/10/15 1:59","Summit, Nj",1,"22-Jun-49",1,"White",1,"Na",1,"Straight",1
+670454660,"FALSE","finalized",3,"2/10/15 1:56","Richmond, Va",1,"24-Apr-34",1,"White",1,"Baptist",1,"Straight",1
+670454661,"FALSE","finalized",3,"2/10/15 2:04","Pasadena, Ca",1,"6-Nov-46",0.6667,"White",1,"Na",1,"Straight",1
+670454662,"FALSE","finalized",3,"2/10/15 2:02","Kirksville, Mo",1,"22-Nov-24",1,"White",1,"Na",1,"Straight",1
+670454663,"FALSE","finalized",3,"2/10/15 2:05","Morton Grove, Il",1,"24-Aug-65",1,"White",1,"Jewish",1,"Straight",1
+670454664,"FALSE","finalized",3,"2/10/15 2:18","El Centro, Ca",1,"20-May-46",1,"White",1,"Na",1,"Bisexual",1
+670454665,"FALSE","finalized",3,"2/10/15 3:57","Los Angeles, Ca",1,"19-Nov-62",1,"White",1,"Atheist",1,"Lesbian",1
+670454666,"FALSE","finalized",3,"2/10/15 1:59","London, England",1,"7-Jun-09",1,"White",1,"Na",1,"Straight",1
+670454667,"FALSE","finalized",3,"2/10/15 4:08","Memphis, Tn",1,"28-Jun-48",1,"White",1,"Na",1,"Straight",1
+670454668,"FALSE","finalized",3,"2/10/15 1:59","Los Angeles, Ca",1,"19-Nov-62",1,"White",1,"Atheist",1,"Lesbian",1
+670454669,"FALSE","finalized",3,"2/10/15 1:51","London, England",1,"15-Apr-59",1,"White",1,"Na",1,"Straight",1
+670454670,"FALSE","finalized",3,"2/10/15 2:03","Conyers, Ga",1,"20-Mar-58",1,"White",1,"Na",1,"Straight",1
+670454671,"FALSE","finalized",3,"2/10/15 2:05","Cloquet, Mn",1,"20-Apr-49",1,"White",1,"Na",1,"Straight",1
+670454672,"FALSE","finalized",3,"2/10/15 1:59","Queens, Ny",1,"4-Oct-46",1,"White",1,"Roman Catholic",1,"Straight",1
+670454673,"FALSE","finalized",3,"2/10/15 2:16","Chicago, Il",1,"23-Jun-57",1,"White",1,"Disciples of Christ",1,"Straight",1
+670454674,"FALSE","finalized",3,"2/10/15 3:55","Culver City, Ca",1,"15-Jun-63",1,"White",1,"Na",1,"Straight",1
+670454675,"TRUE","golden",91,,"Los Angeles, Ca",1,"27-Sep-72",1,"White",1,"Jewish",1,"Straight",1
+670454676,"FALSE","finalized",3,"2/10/15 1:53","Lincoln, Ne",1,"30-Jul-74",1,"White",1,"Na",1,"Straight",1
+670454677,"FALSE","finalized",3,"2/10/15 2:00","Smyrna, Ga",1,"28-Oct-67",1,"White",1,"Hindu",1,"Straight",1
+670454678,"FALSE","finalized",3,"2/10/15 2:14","Cleveland, Oh",1,"14-Aug-66",1,"Multiracial",1,"Na",1,"Straight",1
+670454679,"FALSE","finalized",3,"2/10/15 1:55","Honolulu, Hi",1,"20-Jun-67",1,"White",1,"Roman Catholic",1,"Straight",1
+670454680,"FALSE","finalized",3,"2/10/15 2:01","Benoni, South Africa",1,"7-Aug-75",1,"White",1,"Na",1,"Straight",1
+670454681,"TRUE","golden",85,,"Lincoln, Ne",1,"30-Jul-74",1,"White",1,"Na",1,"Straight",1
+670454682,"FALSE","finalized",3,"2/10/15 1:56","New Orleans, La",1,"22-Mar-76",1,"White",1,"Na",1,"Straight",1
+670454683,"FALSE","finalized",3,"2/10/15 4:02","Chiswick, London, England",1,"26-Jul-45",1,"White",1,"Na",1,"Straight",1
+670454684,"FALSE","finalized",3,"2/10/15 2:02","Paris, France",1,"30-Sep-75",1,"White",1,"Na",1,"Straight",1
+670454685,"FALSE","finalized",3,"2/10/15 2:02","Reading, England",1,"5-Oct-75",1,"White",1,"Na",1,"Straight",1
+670454686,"FALSE","finalized",3,"2/10/15 2:04","Arlington, Va",1,"26-Jul-64",1,"White",1,"Na",1,"Straight",1
+670454687,"FALSE","finalized",3,"2/10/15 2:03","Jerusalem, Israel",1,"9-Jun-81",1,"White",1,"Jewish",1,"Straight",1
+670454688,"FALSE","finalized",3,"2/10/15 1:58","Summit, Nj",1,"22-Jun-49",1,"White",1,"Na",1,"Straight",1
+670454689,"FALSE","finalized",3,"2/10/15 2:15","Louisville, Ky",1,"15-Aug-90",1,"White",1,"Na",1,"Na",1
+670454690,"FALSE","finalized",3,"2/10/15 2:13","Melbourne, Victoria, Australia",1,"14-May-69",1,"White",1,"Na",1,"Straight",1
+670454691,"FALSE","finalized",3,"2/10/15 4:08","Litchfield, Mn",1,"15-Feb-1899",1,"White",1,"Na",1,"Straight",1
+670454692,"FALSE","finalized",3,"2/10/15 1:57","New York City",1,"2-Nov-1892",1,"White",1,"Na",1,"Straight",1
+670454693,"FALSE","finalized",3,"2/10/15 2:03","Los Angeles, Ca",1,"7-Dec-1891",1,"White",1,"Na",1,"Straight",1
+670454694,"FALSE","finalized",3,"2/10/15 3:53","Wichita, Ks",1,"10-Jun-1893",1,"Black",1,"Christian",1,"Matter of Dispute",1
+670454695,"FALSE","finalized",3,"2/10/15 1:59","Palmyra, Mo",1,"15-Oct-1879",1,"White",1,"Na",1,"Straight",1
+670454696,"TRUE","golden",91,,"Quincy, Il",1,"3-May-06",1,"White",1,"Roman Catholic",1,"Straight",1
+670454697,"FALSE","finalized",3,"2/10/15 2:16","New York City",1,"27-Oct-18",1,"White",1,"Na",1,"Straight",0.6667
+670454698,"FALSE","finalized",3,"2/10/15 2:10","Athens, Greece",1,"17-Dec-1900",1,"White",1,"Na",1,"Straight",1
+670454699,"FALSE","finalized",3,"2/10/15 1:43","Philadelphia, Pa",1,"15-Aug-1879",1,"White",1,"Roman Catholic",1,"Straight",1
+670454700,"TRUE","golden",76,,"New York City",1,"25-Jun-1903",1,"White",1,"Na",1,"Straight",1
+670454701,"FALSE","finalized",3,"2/10/15 4:21","Michigan City, In",1,"7-May-23",1,"White",1,"Na",1,"Straight",1
+670454702,"FALSE","finalized",3,"2/10/15 2:41","New York City",1,"29-Apr-17",1,"White",1,"Na",0.6897,"Straight",1
+670454703,"FALSE","finalized",3,"2/10/15 4:02","New York City",1,"8-Mar-10",1,"White",1,"Na",1,"Straight",1
+670454704,"FALSE","finalized",3,"2/10/15 4:08","Joliet, Il",1,"17-Mar-16",1,"White",1,"Roman Catholic",1,"Straight",1
+670454705,"FALSE","finalized",3,"2/10/15 4:08","Newtonville, Ma",1,"3-Jan-1886",1,"White",1,"Na",1,"Straight",1
+670454706,"FALSE","finalized",3,"2/10/15 2:05","Detroit, Mi",1,"12-Nov-22",1,"White",1,"Na",0.6897,"Straight",1
+670454707,"FALSE","finalized",3,"2/10/15 2:12","Los Angeles, Ca",1,"28-Nov-23",1,"White",1,"Na",1,"Straight",1
+670454708,"FALSE","finalized",3,"2/10/15 2:10","Denison, Ia",1,"27-Jan-21",1,"White",1,"Na",1,"Straight",1
+670454709,"FALSE","finalized",3,"2/10/15 4:21","Newark, Nj",1,"4-Jul-24",1,"White",1,"Na",1,"Straight",1
+670454710,"FALSE","finalized",3,"2/10/15 4:02","Oakland, Ca",1,"30-Dec-14",1,"White",1,"Na",1,"Straight",1
+670454711,"FALSE","finalized",3,"2/10/15 1:55","Chicago, Il",1,"30-Jan-25",1,"White",1,"Na",1,"Straight",1
+670454712,"FALSE","finalized",3,"2/10/15 1:52","Otaro, Hokkaido, Japan",1,"3-Apr-29",1,"Asian",1,"Na",1,"Straight",1
+670454713,"FALSE","finalized",3,"2/10/15 3:56","Bramhall, Cheshire, England",1,"15-Aug-12",1,"White",1,"Na",1,"Straight",1
+670454714,"FALSE","finalized",3,"2/10/15 2:15","St. Louis, Mo",1,"18-Aug-20",1,"White",1,"Jewish",1,"Straight",1
+670454715,"FALSE","finalized",3,"2/10/15 3:57","Charleroi, Pa",1,"31-Mar-34",1,"White",1,"Methodist",1,"Straight",1
+670454716,"FALSE","finalized",3,"2/10/15 1:59","Humacao, Puerto Rico",1,"11-Dec-31",1,"Hispanic",1,"Na",1,"Straight",1
+670454717,"FALSE","finalized",3,"2/10/15 2:02","Elmhurst, Ny",1,"14-Dec-46",1,"White",1,"Roman Catholic",1,"Straight",1
+670454718,"FALSE","finalized",3,"2/10/15 1:46","London, England",1,"11-May-1892",1,"White",1,"Na",1,"Straight",1
+670454719,"FALSE","finalized",3,"2/10/15 1:59","St. Petersburg, Russia",1,"9-Oct-18",1,"White",1,"Na",1,"Straight",1
+670454720,"FALSE","finalized",3,"2/10/15 1:57","St. Louis, Mo",1,"18-Aug-20",1,"White",1,"Jewish",1,"Straight",1
+670454721,"FALSE","finalized",3,"2/10/15 4:02","Hastings, Ne",0.6667,"27-Apr-37",1,"White",1,"Na",1,"Bisexual",1
+670454722,"FALSE","finalized",3,"2/10/15 3:53","Marblehead, Ma",1,"20-Nov-27",1,"White",1,"Na",1,"Straight",1
+670454723,"FALSE","finalized",3,"2/10/15 1:47","Quincy, Ma",1,"30-Oct-1896",1,"White",1,"Na",1,"Straight",1
+670454724,"FALSE","finalized",3,"2/10/15 2:13","Silver Spring, Md",1,"21-Nov-45",1,"White",1,"Buddhist",1,"Straight",1
+670454725,"FALSE","finalized",3,"2/10/15 1:51","Washington, Dc",1,"10-Oct-1900",1,"White",1,"Na",1,"Straight",1
+670454726,"FALSE","finalized",3,"2/10/15 1:55","Des Moines, Ia",0.6667,"30-Apr-26",1,"White",1,"Na",1,"Straight",1
+670454727,"FALSE","finalized",3,"2/10/15 2:04","Columbus, Oh",1,"29-Mar-19",0.6667,"White",1,"Na",1,"Straight",1
+670454728,"FALSE","finalized",3,"2/10/15 2:04","Los Angeles, Ca",1,"5-Nov-63",1,"White",1,"Na",1,"Straight",1
+670454729,"FALSE","finalized",3,"2/10/15 2:02","Stockholm, Sweden",1,"29-Aug-15",1,"White",1,"Na",1,"Straight",1
+670454730,"TRUE","golden",87,,"New York City",1,"31-Oct-27",1,"White",0.9594,"Jewish",1,"Straight",1
+670454731,"FALSE","finalized",3,"2/10/15 2:14","Old Westbury, Ny",1,"2-Aug-14",1,"White",1,"Na",1,"Straight",1
+670454732,"FALSE","finalized",3,"2/10/15 2:06","London, England",1,"30-Jan-37",1,"White",1,"Na",1,"Straight",1
+670454733,"FALSE","finalized",3,"2/10/15 1:46","Ilford, Essex, England",1,"28-Dec-34",1,"White",1,"Na",1,"Straight",1
+670454734,"FALSE","finalized",3,"2/10/15 4:08","Summit, Nj",1,"22-Jun-49",1,"White",1,"Na",1,"Straight",1
+670454735,"FALSE","finalized",3,"2/10/15 4:14","Newport, Ar",1,"8-Feb-53",1,"White",1,"Na",1,"Straight",1
+670454736,"FALSE","finalized",3,"2/10/15 2:19","Troy, Ny",1,"21-Jun-25",1,"White",1,"Roman Catholic",1,"Straight",1
+670454737,"FALSE","finalized",3,"2/10/15 2:07","Cloquet, Mn",1,"20-Apr-49",1,"White",1,"Na",1,"Straight",1
+670454738,"FALSE","finalized",3,"2/10/15 2:05","Morristown, Nj",1,"2-Apr-45",1,"White",1,"Na",1,"Na",0.6857
+670454739,"FALSE","finalized",3,"2/10/15 1:49","Croydon, Surrey, England",1,"22-Dec-07",1,"White",1,"Agnostic",1,"Straight",1
+670454740,"FALSE","finalized",3,"2/10/15 2:10","Santa Monica, Ca",1,"8-Jul-51",1,"White",1,"Na",1,"Straight",1
+670454741,"FALSE","finalized",3,"2/10/15 1:49","Kansas City, Mo",1,"28-Mar-48",1,"White",1,"Na",1,"Straight",1
+670454742,"FALSE","finalized",3,"2/10/15 2:07","Lowell, Ma",1,"20-Jun-31",1,"White",1,"Na",1,"Straight",1
+670454743,"FALSE","finalized",3,"2/10/15 3:50","Wareham, Ma",1,"21-Jan-56",1,"White",1,"Congregationalist",1,"Straight",1
+670454744,"FALSE","finalized",3,"2/10/15 4:21","Dublin, Ireland",1,"17-Feb-45",1,"White",1,"Na",1,"Straight",1
+670454745,"FALSE","finalized",3,"2/10/15 2:05","New York City",1,"13-Nov-55",1,"Black",1,"Atheist",1,"Straight",1
+670454746,"FALSE","finalized",3,"2/10/15 2:08","Queens, Ny",1,"28-Feb-48",1,"Hispanic",1,"Roman Catholic",1,"Straight",1
+670454747,"FALSE","finalized",3,"2/10/15 1:46","Brooklyn, Ny",1,"4-Dec-64",1,"White",1,"Na",1,"Straight",1
+670454748,"FALSE","finalized",3,"2/10/15 2:03","Winnipeg, Manitoba, Canada",1,"24-Jul-82",1,"White",1,"Na",1,"Bisexual",1
+670454749,"FALSE","finalized",3,"2/10/15 2:00","Kansas City, Mo",1,"28-Mar-48",1,"White",1,"Na",1,"Straight",1
+670454750,"FALSE","finalized",3,"2/10/15 2:04","Tenafly, Nj",1,"28-Sep-67",1,"White",1,"Atheist",1,"Straight",1
+670454751,"FALSE","finalized",3,"2/10/15 1:58","Paris, France",1,"9-Mar-64",1,"White",1,"Na",1,"Straight",1
+670454752,"FALSE","finalized",3,"2/10/15 1:51","Athens, Ga",1,"8-Dec-53",1,"White",1,"Na",1,"Straight",1
+670454753,"FALSE","finalized",3,"2/10/15 4:14","York, North Yorkshire, England",1,"9-Dec-34",1,"White",1,"Quaker",1,"Straight",1
+670454754,"TRUE","golden",87,,"Los Angeles, Ca",0.9593,"4-Jun-75",1,"White",1,"Buddhist",1,"Bisexual",1
+670454755,"TRUE","golden",91,,"La Jolla, Ca",1,"14-Aug-59",1,"White",1,"Na",1,"Straight",1
+670454756,"FALSE","finalized",3,"2/10/15 2:08","Catskill Mountains, Ny",1,"12-Dec-70",1,"White",1,"Jewish",1,"Straight",1
+670454757,"FALSE","finalized",3,"2/10/15 2:00","Mumbles, Wales",1,"25-Sep-69",1,"White",1,"Roman Catholic",1,"Straight",1
+670454758,"FALSE","finalized",3,"2/10/15 2:07","Katy, Tx",1,"25-Apr-69",1,"White",1,"Na",1,"Straight",0.6667
+670454759,"FALSE","finalized",3,"2/10/15 2:05","Melbourne, Victoria, Australia",1,"14-May-69",1,"White",1,"Na",1,"Straight",1
+670454760,"TRUE","golden",92,,"London, England",1,"7-Mar-71",1,"White",1,"Jewish",1,"Straight",1
+670454761,"FALSE","finalized",3,"2/10/15 4:07","Chicago, Il",1,"12-Sep-81",1,"Black",1,"Baptist",1,"Straight",1
+670454762,"FALSE","finalized",3,"2/10/15 2:00","London, England",1,"5-Nov-60",1,"White",1,"Na",1,"Straight",1
+670454763,"FALSE","finalized",3,"2/10/15 1:59","Madrid, Spain",1,"28-Apr-74",1,"Hispanic",1,"Buddhist",1,"Straight",1
+670454764,"TRUE","golden",86,,"Woodlawn, Md",1,"11-Dec-67",0.9631,"Black",1,"Na",1,"Straight",1
+670454765,"FALSE","finalized",3,"2/10/15 1:56","New York City",1,"14-Sep-60",1,"White",1,"Na",1,"Straight",1
+670454766,"FALSE","finalized",3,"2/10/15 2:18","Montgomery, Al",1,"25-May-72",1,"Black",1,"Na",1,"Na",1
+670454767,"FALSE","finalized",3,"2/10/15 2:18","Brooklyn, Ny",1,"12-Nov-82",1,"White",1,"Christian",1,"Straight",1
+670454768,"FALSE","finalized",3,"2/10/15 2:10","Mexico City, Mexico",1,"1-Mar-83",1,"Black",1,"Na",1,"Na",1
+670927629,"FALSE","finalized",3,"2/10/15 2:02","Sucha, Galicia, Austria",1,"22-Jun-06",1,"White",1,"Jewish",1,"Straight",1
+670939613,"FALSE","finalized",3,"2/10/15 1:53","Independence, Mo",1,"16-Jul-11",1,"White",1,"Christian Science",1,"Straight",1
+670944094,"FALSE","finalized",3,"2/10/15 2:18","Concord, Ca",1,"9-Jul-56",1,"White",1,"Born-Again Christian",1,"Straight",1
+670944168,"FALSE","finalized",3,"2/10/15 3:55","New York City",1,"3-Feb-39",1,"White",1,"Na",1,"Straight",1
+670944316,"FALSE","finalized",3,"2/10/15 2:05","Quincy, Il",1,"3-May-06",1,"White",1,"Roman Catholic",1,"Straight",1
+670944478,"FALSE","finalized",3,"2/10/15 1:49","Los Angeles, Ca",1,"4-Jun-75",1,"White",1,"Buddhist",1,"Bisexual",1
+670944543,"FALSE","finalized",3,"2/10/15 2:12","New York City",1,"31-Oct-27",1,"White",1,"Jewish",1,"Straight",1
+670944623,"FALSE","finalized",3,"2/10/15 2:11","New York City",1,"25-Jun-1903",1,"White",1,"Na",1,"Straight",1
+670944674,"FALSE","finalized",3,"2/10/15 2:05","Bascom, Fl",1,"14-Jan-41",1,"White",1,"Roman Catholic",1,"Straight",1
+670944755,"FALSE","finalized",3,"2/10/15 2:04","Walters, Ok",1,"13-Dec-10",1,"White",1,"Na",1,"Straight",1
+670944822,"FALSE","finalized",3,"2/10/15 4:14","Thomasville, Ga",1,"27-Feb-30",1,"White",1,"Na",1,"Straight",1
+670944835,"FALSE","finalized",3,"2/10/15 2:08","Helena, Mt",1,"7-May-1901",1,"White",1,"Roman Catholic",1,"Straight",1
+670944920,"FALSE","finalized",3,"2/10/15 3:58","London, England",1,"27-Feb-32",1,"White",1,"Jewish",1,"Straight",1
+670944948,"FALSE","finalized",3,"2/10/15 2:06","Lincoln, Ne",1,"30-Jul-74",1,"White",1,"Na",1,"Straight",1
+670945043,"TRUE","golden",86,,"Lincoln, Ne",1,"30-Jul-74",1,"White",1,"Na",1,"Straight",1
+670945693,"FALSE","finalized",3,"2/10/15 1:49","Los Angeles, Ca",1,"27-Sep-72",1,"White",1,"Jewish",1,"Straight",1
+670945790,"FALSE","finalized",3,"2/10/15 2:08","Malden, Ma",1,"16-Jun-07",1,"White",1,"Na",1,"Na",1
+670945834,"FALSE","finalized",3,"2/10/15 2:07","Woodlawn, Md",1,"11-Dec-67",1,"Black",1,"Na",1,"Straight",1
+670945895,"FALSE","finalized",3,"2/10/15 2:13","La Jolla, Ca",1,"14-Aug-59",1,"White",1,"Na",1,"Straight",1
+670946199,"FALSE","finalized",3,"2/10/15 2:03","Ilford, Essex, England",1,"28-Dec-34",1,"White",1,"Na",1,"Straight",1
+670946276,"FALSE","finalized",3,"2/10/15 2:00","London, England",1,"7-Mar-71",1,"White",1,"Jewish",1,"Straight",1
+670946299,"FALSE","finalized",3,"2/10/15 2:04","Manchester, England",1,"20-Oct-56",1,"White",1,"Roman Catholic",1,"Straight",1
+670964912,"FALSE","finalized",3,"2/10/15 2:03","Chicago, Il",1,"26-Jul-22",1,"White",1,"Na",1,"Straight",1
+670964956,"FALSE","finalized",3,"2/10/15 2:01","Laurel, Ne",1,"31-Aug-28",1,"White",1,"Na",1,"Straight",1
+670972898,"FALSE","finalized",3,"2/10/15 2:01","Nevada, Mo",1,"5-Aug-06",1,"White",1,"Na",1,"Straight",1
