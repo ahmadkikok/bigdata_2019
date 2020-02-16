@@ -92,6 +92,7 @@ Ini adalah konfigurasi dan proses **Join** data yang berasal dari **database** d
 ## 7. Deployment
 Setelah join berhasil dilakukan, selanjutnya adalah deployement, yaitu dimana file yang telah di satukan akan di lakukan write kembali kedalam **database** dan **.csv**.
 
+
 ![](/tugas_1_etl-menggunakan-knime/screenshoot/Workflow_CSVWriter_7.PNG)
 
 Pada **Node 13** akan melakukan write data ke file berbentuk **.csv** dengan lokasi output sesuai pada gambar.
