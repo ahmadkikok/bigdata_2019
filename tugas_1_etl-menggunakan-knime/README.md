@@ -32,6 +32,7 @@ Dari data-data tersebut kemungkinan yang dapat dilakukan adalah :
 ## 3. Data Understanding
 - Datasets ini berisi tentang data ras, agama, usia, dan detail demografis lainnya dari semua pemenang Oscar sejak 1928.
 - Datasets ini memiliki 27 Kolom dan 441 Row.
+- Pada Datasets ini terdapat kolom **_unit_id** yang berfungsi sebagai **ID Unit** untuk tiap data.
 - Kolom Datasets lainnya berisi tentang informasi ras, agama, usia, biografi, dan detail mengenai demografis lainnya.
 
 	
