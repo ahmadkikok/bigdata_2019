@@ -119,38 +119,38 @@ Pada kasus ini saya akan membuat 2 table 05111640000157_ss13pme dan 051116400001
 Data telah berhasil dimasukan kedalam ``hive``, ``apache hive`` telah berhasil di jalankan, untuk menjalankan workflow selanjutnya, pastikan semua workflow pada setup hive ini telah berjalan semua.
 
 ### 3.2 01_Hive_Modeling_Exercise
-![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/1/01_Add_Env.PNG
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/1/01_Add_Env.PNG)
 
 Tambahkan node env, dan hapus sqlite connector yang sebelumnya, hubungkan env kedalam table selector, pastikan workflow sebelumnya telah berjalan yaitu workflow setup hive.
 
 
-![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/1/02_Change_Table_Selector.PNG
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/1/02_Change_Table_Selector.PNG)
 
 Ganti table sesuai table yang telah dibuat sebelumnya.
 
 
-![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/1/03_Success.PNG
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/1/03_Success.PNG)
 
 Jalankan semua node, node berjalan dengan baik tanpa adanya error ditandai dengan semua node menyala warna hijau.
 
 ### 3.3 02_Hive_WritingtoDB_Exercise
-![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/01_Add_Table_Creator.PNG
-![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/01_Table_Configure.PNG
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/01_Add_Table_Creator.PNG)
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/01_Table_Configure.PNG)
 
 Tambahkan node baru table creator, buatlah sebuah table baru, pada kasus ini saya membuat table dengan nama 05111640000157_newTable.
 
 
-![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/02_Add_Table_Loader_Temp_Dir.PNG
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/02_Add_Table_Loader_Temp_Dir.PNG)
 
 Tambahkan node baru table loader, dan temp dir, pada kasus ini saya hanya melakukan copy paste konfigurasi temp dir pada setup hive sebelumnya, yang kemudian diarahkan ke table loader.
 
 
-![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/02_Loader_Configure.PNG
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/02_Loader_Configure.PNG)
 
 Atur lokasi hive dan table yang akan di load, kemudian jalankan.
 
-![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/03_Success_Data_Knime.PNG
-![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/03_Success_Data_DBeaver.PNG
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/03_Success_Data_Knime.PNG)
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/03_Success_Data_DBeaver.PNG)
 
 Berikut adalah hasil yang telah didapatkan, serta uji coba melalui DBClient DBeaver, Eksplorasi telah berhasil dilakukan tanpa adanya error.
 
