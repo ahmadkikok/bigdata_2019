@@ -4,17 +4,14 @@ Pada tugas ni saya melakukan eksplorasi dari tugas yang diberikan, dengan menggu
 ## Menu Cepat
 1. [Kebutuhan](#1-kebutuhan)
 2. [DB](#2-DB)
-	- [01_DB_Connect](#01_DB_Connect)
-	- [02_DB_InDB_Processing_Exercise](#02_DB_InDB_Processing_Exercise)
-	- [03_DB_Modelling_Exercise](#03_DB_Modelling_Exercise)
-	- [04_DB_WritingToDB_Exercise](#04_DB_WritingToDB_Exercise)
-3. [Data Understanding](#3-data-understanding)
-4. [Data Preparation](#4-data-preparation)
-5. [Modeling](#5-modeling)
-6. [Evaluation](#6-evaluation)
-7. [Deployment](#7-deployment)
-8. [Referensi](#8-referensi)
-
+	- [01_DB_Connect](#21-01_db_connect)
+	- [02_DB_InDB_Processing_Exercise](#22-02_db_indb_processing_exercise)
+	- [03_DB_Modelling_Exercise](#23-03_db_modelling_exercise)
+	- [04_DB_WritingToDB_Exercise](#24-04_db_writingtodb_exercise)
+3. [Hadoop](#3-Hadoop)
+	- [00_Setup_Hive_Table](#31-00_setup_hive_table)
+	- [01_Hive_Modeling_Exercise](#32-01_Hive_Modeling_Exercise)
+	- [02_Hive_WritingtoDB_Exercise](#33-02_Hive_WritingtoDB_Exercise)
 
 ## 1. Kebutuhan
 - KNIME
@@ -26,7 +23,7 @@ Pada tugas ni saya melakukan eksplorasi dari tugas yang diberikan, dengan menggu
 Sebelum melakukan eksplorasi, saya memeberikan prefix pada semua table yang ada, sehingga masing masing table diawali 05111640000157.
 
 
-## 2.1 01_DB_Connect
+### 2.1 01_DB_Connect
 ![](/tugas_2_eksplorasi-knime-big-data/screenshoot/DB/1/01_Import_Connection.PNG)
 
 Import koneksi SQLite yang telah disediakan pada file data kemudian jalankan koneksi tersebut.
@@ -42,7 +39,7 @@ Tambahkan node table selector untuk melakukan seleksi pada table yang diinginkan
 
 Tambahkan node db reader agar data yang telah di select dapat di baca, kemudian lihat hasil result, data telah berhasil di tambahkan.
 
-## 2.2 02_DB_InDB_Processing_Exercise
+### 2.2 02_DB_InDB_Processing_Exercise
 ![](/tugas_2_eksplorasi-knime-big-data/screenshoot/DB/2/01_Select_Ss13pme_Ss13hme.PNG)
 
 Buat 2 node table selector untuk memilih table ss13pme dan table ss13hme.
@@ -79,7 +76,7 @@ Pada masing masing hasil row filter buat table reader untuk membaca table terseb
 
 Selanjutnya adalah menambahkan node group by untuk melakukan group pada kolom ``sex`` dan dilakukan penghitungan rata-rata(avg), setelah itu jalankan dan lihat hasil dari data ``sex`` yang telah di rata-ratakan.
 
-## 2.3 03_DB_Modelling_Exercise
+### 2.3 03_DB_Modelling_Exercise
 ![](/tugas_2_eksplorasi-knime-big-data/screenshoot/DB/3/01_Add_Decision_Tree.PNG)
 ![](/tugas_2_eksplorasi-knime-big-data/screenshoot/DB/3/01_Add_Decision_Tree_Configure.PNG)
 ![](/tugas_2_eksplorasi-knime-big-data/screenshoot/DB/3/01_Add_Decision_Tree_Result.PNG)
@@ -92,7 +89,7 @@ Tambahkan node decision tree learner untuk melakukan learn pada data, pada kasus
 
 Tambah node decision predictor dan lakukan prediksi dari data yang telah di train dan data yang telah dibaca sebelumnya.
 
-## 2.4 04_DB_WritingToDB_Exercise
+### 2.4 04_DB_WritingToDB_Exercise
 ![](/tugas_2_eksplorasi-knime-big-data/screenshoot/DB/4/01_Add_Table_Writer.PNG)
 
 Tambahkan node table writer dan lakukan konfigurasi untuk membuat table baru dengan nama 05111640000157.ss13pme_original, ini adalah table yang dibuat untuk backup.
@@ -104,4 +101,56 @@ Tambahkan node table writer dan lakukan konfigurasi untuk membuat table baru den
 
 Tambahkan node db update untuk melakukan update data ke database dimana untuk mengisi kolom ``serial no`` berdasarkan kolom ``cow`` yang telah di prediksi sebelumnya, jalankan kemudian kolom null akan terisi dengan hasil prediksi yang telah di lakukan sebelumnya.
 
+## 3. Hadoop
+### 3.1 00_Setup_Hive_Table
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/0/01_Setup_Hive.PNG
+
+Jalankan semua node yang telah di sediakan oleh KNIME untuk membuat temp dir pada local yang nantinya digunakan sebagai DB ``hive``.
+
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/0/01_Setup_Hive_1.PNG)
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/0/01_Setup_Hive_2.PNG)
+
+Pada kasus ini saya akan membuat 2 table 05111640000157_ss13pme dan 05111640000157_ss13hme, lanjutkan dengan menjalankan semua notenya hingga selesai, setelah itu uji coba dengan menggunakan DBClient untuk mengetest apakah data sudah masuk kedalam ``hive`` atau belum.
+
+
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/0/02_Test_DBClient.PNG)
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/0/02_Test_DBClient_2.PNG)
+
+Data telah berhasil dimasukan kedalam ``hive``, ``apache hive`` telah berhasil di jalankan, untuk menjalankan workflow selanjutnya, pastikan semua workflow pada setup hive ini telah berjalan semua.
+
+### 3.2 01_Hive_Modeling_Exercise
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/1/01_Add_Env.PNG
+
+Tambahkan node env, dan hapus sqlite connector yang sebelumnya, hubungkan env kedalam table selector, pastikan workflow sebelumnya telah berjalan yaitu workflow setup hive.
+
+
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/1/02_Change_Table_Selector.PNG
+
+Ganti table sesuai table yang telah dibuat sebelumnya.
+
+
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/1/03_Success.PNG
+
+Jalankan semua node, node berjalan dengan baik tanpa adanya error ditandai dengan semua node menyala warna hijau.
+
+### 3.3 02_Hive_WritingtoDB_Exercise
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/01_Add_Table_Creator.PNG
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/01_Table_Configure.PNG
+
+Tambahkan node baru table creator, buatlah sebuah table baru, pada kasus ini saya membuat table dengan nama 05111640000157_newTable.
+
+
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/02_Add_Table_Loader_Temp_Dir.PNG
+
+Tambahkan node baru table loader, dan temp dir, pada kasus ini saya hanya melakukan copy paste konfigurasi temp dir pada setup hive sebelumnya, yang kemudian diarahkan ke table loader.
+
+
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/02_Loader_Configure.PNG
+
+Atur lokasi hive dan table yang akan di load, kemudian jalankan.
+
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/03_Success_Data_Knime.PNG
+![](/tugas_2_eksplorasi-knime-big-data/screenshoot/Hadoop/2/03_Success_Data_DBeaver.PNG
+
+Berikut adalah hasil yang telah didapatkan, serta uji coba melalui DBClient DBeaver, Eksplorasi telah berhasil dilakukan tanpa adanya error.
 
