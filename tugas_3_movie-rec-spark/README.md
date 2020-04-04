@@ -178,8 +178,7 @@ dimana spark sendiri merupakan open-source cluster framework computing, yang dib
 
 
 ## 4. Referensi
-https://grouplens.org/datasets/movielens/
-https://www.knime.com/learning-hub
+https://grouplens.org/datasets/movielens/                                           
+https://www.knime.com/learning-hub                                                    
 https://github.com/ahmadkikok/bigdata_2019/tree/master/tugas_1_etl-menggunakan-knime
-
 https://www.knime.com/blog/movie-recommendations-with-spark-collaborative-filtering
