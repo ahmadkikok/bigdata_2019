@@ -137,12 +137,15 @@ pada node ini akan dilakukan join film yang berasal dari dataset original dengan
 Berikut adalah konfigurasi pada row filter dimana pada filter pertama ini akan menghilangkan hasil prediksi NaN, sort filter secara Ascending, dan row filter untuk mengambil 10 top film, kemudian jalankan ketiga node tersebut.
 
 ![](/tugas_3_movie-rec-spark/screenshoot/2-6_row_config.png)
+
 ![](/tugas_3_movie-rec-spark/screenshoot/2-6_sort_config.png)
+
 ![](/tugas_3_movie-rec-spark/screenshoot/2-6_row2_config.png)
 
 Selanjutnya adalah memasukan kembali film yang ada pada movies.csv untuk dilakukan join, berikut adalah konfigurasi file reader dan joiner, setelah itu jalankan kedua node.
 
 ![](/tugas_3_movie-rec-spark/screenshoot/2-6_fileread_config.png)
+
 ![](/tugas_3_movie-rec-spark/screenshoot/2-6_join_config.png)
 
 Semua node pada node tambahan telah berhasil dijalankan.
@@ -152,6 +155,7 @@ Semua node pada node tambahan telah berhasil dijalankan.
 Kemudian jalankan node terakhir display recommendation, dan hasil dari rekomandasi yang diberikan adalah seperti berikut, dan semua node telah berhasil dijalankan.
 
 ![](/tugas_3_movie-rec-spark/screenshoot/2-6_result.png)
+
 ![](/tugas_3_movie-rec-spark/screenshoot/2-6_finish.png)
 
 
@@ -161,6 +165,7 @@ Pada bagian ini akan membahas perbedaan CSV to Spark dan File Reader
 Pertama tambahkan node timer info pada workflow knime, kemudian input file yang sama pada file reader yang telah di sediakan untuk melakukan ujicoba.
 
 ![](/tugas_3_movie-rec-spark/screenshoot/3_file_nodef.png)
+
 ![](/tugas_3_movie-rec-spark/screenshoot/3_file_cnf.png)
 
 Kemudian jalankan file reader, node csv to spark, serta timer info.
@@ -173,7 +178,8 @@ dimana spark sendiri merupakan open-source cluster framework computing, yang dib
 
 
 ## 4. Referensi
-https://github.com/ahmadkikok/bigdata_2019/tree/master/tugas_1_etl-menggunakan-knime
-https://www.knime.com/blog/movie-recommendations-with-spark-collaborative-filtering
 https://grouplens.org/datasets/movielens/
 https://www.knime.com/learning-hub
+https://github.com/ahmadkikok/bigdata_2019/tree/master/tugas_1_etl-menggunakan-knime
+
+https://www.knime.com/blog/movie-recommendations-with-spark-collaborative-filtering
