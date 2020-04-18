@@ -18,6 +18,7 @@ Tugas 4 untuk melakukan Implementasi Kafka dengan Menggunakan Docker dan penguji
 
 ## 2. Kafka With Docker Compose
 Pada tugas ini, saya menggunakan docker-compose dalam instalasi infrastruktur kafra, infrastruktur yang akan dibuat adalah seperti gambar dibawah, dengan menggunakan 3 Kafka Server Sebagai Broker dan 1 Zookeper sebagai cluster yang berisi dari 3 Broker.
+
 ![](/tugas_4_kafka/screenshoot/1.png)
 
 
@@ -125,13 +126,14 @@ Selanjutnya adalah membangun 3 broker, pada kasus ini saya akan mengambil salah 
 Pada bagian ini kita akan mencoba menjalankan docker-compose, step yang dilakukan adalah
 
 1. Jalankan docker, maka akan terlihat tidak ada container.
-![](/tugas_4_kafka/screenshoot/1.png)
+![](/tugas_4_kafka/screenshoot/2.png)
 
 2. Masuk kedalam cmd.
 
 3. Masuk kedalam direktori dimana docker-compose.yaml/yml berada.
 
 4. Jalankan ``docker-compose up``, maka akan tampil seperti pada gambar, tunggu hingga proses selesai, setelah itu buka kembali kedalam docker, maka container akan bertambah.
+
 ![](/tugas_4_kafka/screenshoot/3.png)
 
 ![](/tugas_4_kafka/screenshoot/4.png)
