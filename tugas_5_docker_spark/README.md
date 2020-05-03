@@ -21,7 +21,7 @@ Dari hasil uji coba nanti akan ditarik kesimpulan spark mana yang lebih cepat da
 2. [Uji Coba Spesifikasi 1](#2-uji-coba-spesifikasi-1)
 2. [Uji Coba Spesifikasi 2](#3-uji-coba-spesifikasi-2)
 4. [Kesimpulan](#4-kesimpulan)
-5. [Referensi](5-referensi)
+5. [Referensi](#5-referensi)
 
 ## 1. Kebutuhan
 - Docker for Windows
