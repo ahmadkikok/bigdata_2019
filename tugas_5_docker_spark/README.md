@@ -2,15 +2,24 @@
 Tugas 5 ini akan melakukan uji coba apache spark dengan docker, dimana akan dibuat 2 docker dengan spesifikasi yang berbeda
 
 Spesifikasi 1 :
+
 Jumlah worker: 2 Dimana ini adalah worker yang akan dibuat pada apache spark
+
 Jumlah CPU: 2 Dengan total CPU nya adalah 2 cores
+
 Memory: 1G Dengan memory 1G dimasing masing workernya
+
 Partisi: 100 Uji coba yang dilakukan adalah melakukan partisi 100 untuk menghitung pi
 
+
 Spesifikasi 2 :
+
 Jumlah worker: 5 Dimana ini adalah worker yang akan dibuat pada apache spark
+
 Jumlah CPU: 5 Dengan total CPU nya adalah 5 cores
+
 Memory: 1G Dengan memory 1G dimasing masing workernya
+
 Partisi: 1000 Uji coba yang dilakukan adalah melakukan partisi 1000 untuk menghitung pi
 
 Dari hasil uji coba nanti akan ditarik kesimpulan spark mana yang lebih cepat dan proses spark bekerja.
