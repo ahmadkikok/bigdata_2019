@@ -10,3 +10,4 @@ Github ini digunakan sebagai dokumentasi penugasan Big Data :
 2. [Tugas 2 - Eksplorasi Knime BigData](https://github.com/ahmadkikok/bigdata_2019/tree/master/tugas_2_eksplorasi-knime-big-data)
 3. [Tugas 3 - Implementasi ALS](https://github.com/ahmadkikok/bigdata_2019/tree/master/tugas_3_movie-rec-spark)
 4. [Tugas 4 - Infrastruktur Kafka](https://github.com/ahmadkikok/bigdata_2019/tree/master/tugas_4_kafka)
+5. [Tugas 5 - Spark With Docker](https://github.com/ahmadkikok/bigdata_2019/tree/master/tugas_5_docker_spark)
