@@ -183,5 +183,6 @@ Didapatkan terdapat 25 iris dan versi-color tanpa adanya klasifikasi yang salah,
 https://archive.ics.uci.edu/ml/datasets/iris                                                                      
 https://www.knime.com/learning-hub                                                                    
 https://github.com/ahmadkikok/bigdata_2019/tree/master/tugas_1_etl-menggunakan-knime                      
-https://hub.knime.com/knime/spaces/Examples/latest/10_Big_Data/02_Spark_Executor/02_Mass_Learning_Event_Prediction_MLlib_to_PMML\
+https://hub.knime.com/knime/spaces/Examples/latest/10_Big_Data/02_Spark_Executor/02_Mass_Learning_Event_Prediction_MLlib_to_PMML
+
 https://hub.knime.com/knime/spaces/Examples/latest/10_Big_Data/02_Spark_Executor/03_PMML_to_Spark_Comprehensive_Mode_Learning_Mass_Prediction
