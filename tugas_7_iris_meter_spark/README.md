@@ -203,7 +203,7 @@ Pada tahap ini dilakukan perubahan data dari spark kembali mejadi hive serta men
 ![](/tugas_7_iris_meter_spark/screenshoot/33.PNG)
 
 
-## 4. Referensi                                                                
+## 3. Referensi                                                                
 https://www.knime.com/learning-hub                                                                    
 https://github.com/ahmadkikok/bigdata_2019/tree/master/tugas_1_etl-menggunakan-knime                      
 https://hub.knime.com/knime/spaces/Examples/latest/10_Big_Data/02_Spark_Executor/09_Big_Data_Irish_Meter_on_Spark_only
