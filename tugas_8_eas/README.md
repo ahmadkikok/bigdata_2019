@@ -79,7 +79,7 @@ Datasets ini berisi sejumlah data yang berisi penggunaan minimum temp.
 
 Terdapat 3 kolom data dengan :
 - id_daily sebuah integer yang menjadi id utama pada data ini.
-- tempdate sebuah integer yang berisi waktu dalam bentuk string.
+- tempdate sebuah string yang berisi waktu.
 - dailymintemp sebuah double yang berisi data mintemp.
 
 
@@ -251,7 +251,7 @@ Data test yang digunakan pada workflow ini adalah data Time Series Electric Prod
 Datasets ini berisi sejumlah data yang berisi electric production.
 
 Terdapat 2 kolom data dengan :
-- date sebuah integer yang berisi waktu dalam bentuk string.
+- date sebuah string yang berisi waktu.
 - IPG2211A2N sebuah double yang berisi data electric production.
 
 
@@ -400,6 +400,136 @@ Selanjutnya pada tahap deployment kita akan menjalankan workflow
 Pada tahap ini dilakukan perubahan data dari spark kembali mejadi hive serta menympan spark kedalam HDFS dalam bentuk parquet, hasil dari data tersebut adalah sebagai berikut
 
 ![](/tugas_8_eas/screenshoot/2/31.PNG)
+
+
+## 5. Monthly Beer
+Workflow yang akan dijalankan pada tugas ini adalah sebagai berikut
+
+![](/tugas_8_eas/screenshoot/3/1.PNG)
+
+Workflow ini berisi 3 meta node diantara lain ``Load Data Node``, ``Extract date-time attributes``, ``Aggregation and time series``.
+
+
+### 5.1 Business Understanding
+Data test yang digunakan pada workflow ini adalah data Time Series Monthly Beer Production, sehingga kemungkinan proses yang dapat dilakukan pada data ini adalah melakukan analisa terhadap monthly beer production, analisa yang dilakukan adalah sebagai berikut :
+- Analisa berdasarkan Tahun (Total Tahun)
+- Analisa berdasarkan Bulan (Rata-rata tiap Bulan)
+
+
+### 5.2 Data Understanding
+Datasets ini berisi sejumlah data yang berisi electric production.
+
+Terdapat 2 kolom data dengan :
+- Month sebuah string yang berisi waktu.
+- Monthly beer production sebuah double yang berisi data produksi beer per bulan.
+
+
+### 5.3 Data Preparation
+![](/tugas_8_eas/screenshoot/3/2.PNG)
+
+Pada data preparation kita akan mempersiapkan data sets yang telah ditambahkan id dengan menggunakan database, data sudah berada pada folder /files/ yang disiapkan dalam bentuk spark nantinya.
+Node yang dijalankan pertama kali adalah file manger, yaitu akan dilakukan load data yang berasa dari knime, kemudian membuat local env yang kemudian akan jalankan Meta Node ``Load Data``.
+
+![](/tugas_8_eas/screenshoot/3/3.PNG)
+
+![](/tugas_8_eas/screenshoot/3/4.PNG)
+
+Meta node ``Load Data`` berisi 2 node, node ini akan melakukan pembuatan table pada hive serta melakukan load table yang telah dibuat, hasil table yang telah di buat adalah sebagai berikut.
+
+![](/tugas_8_eas/screenshoot/3/5.PNG)
+
+Monthly Beer akan disimpan pada hive dengan nama table monthly_beer.
+
+![](/tugas_8_eas/screenshoot/3/6.PNG)
+
+Selanjutnya yang dilakukan adalah merubah table hive tadi menjadi spark, dengan menjalankan node ``Hive to Spark``, hasil dari table spark tersebut adalah
+
+![](/tugas_8_eas/screenshoot/3/7.PNG)
+
+
+### 5.4 Modeling
+Selanjutnya adalah melakukan modeling untuk merubah isi table yang ada, yang nantinya akan dilakukan pemecahan data untuk dilakukan analisa, workflow yang dijalankan adalah
+
+![](/tugas_8_eas/screenshoot/3/10.PNG)
+
+Pada workflow ini kita akan menjalankan meta node ``Extract time`` node ini akan melakukan pemisahan data yang nantinya akan di lakukan analisa, isi dari node ``Extract time`` ini adalah sebagai berikut
+
+![](/tugas_8_eas/screenshoot/3/8.PNG)
+
+Pada node ini, pertama kita akan merubah date yang berbentuk string kedalam bentuk Date, node yang dijalankan adalah node ``Spark SQL Query``
+
+![](/tugas_8_eas/screenshoot/3/9.PNG)
+
+Pada query ini melakukan select year, month yang diambil dari kolom month, sehingga menghasilkan
+
+![](/tugas_8_eas/screenshoot/3/11.PNG)
+
+Semua node telah dijalankan, hasil column nantinya akan dilakukan analisa pada meta node ``Aggregation and time series``, meta node ini berisi sejumlah node seperti berikut
+
+![](/tugas_8_eas/screenshoot/3/12.PNG)
+
+Pada node ini, akan dilakukan analisa dengan menghitung rata rata dari data yang dianalis.
+
+![](/tugas_8_eas/screenshoot/3/14.PNG)
+
+Pada node diatas dilakukan group berdasarkan ``total usage`` dan ``usage by year``, akan melakukan penghitungan berdasarkan temp seperti pada gambar
+
+![](/tugas_8_eas/screenshoot/3/15.PNG)
+
+![](/tugas_8_eas/screenshoot/3/16.PNG)
+
+Sedangkan ``usage by month``
+
+![](/tugas_8_eas/screenshoot/3/17.PNG)
+
+![](/tugas_8_eas/screenshoot/3/18.PNG)
+
+Selanjutnya pada ``avg by month`` dilakukan penghitungan rata-rata berdasarkan bulan, dengan group by tahun
+
+![](/tugas_8_eas/screenshoot/3/19.PNG)
+
+Hasil dari rata-rata adalah sebagai berikut
+
+![](/tugas_8_eas/screenshoot/3/20.PNG)
+
+Selanjutnya adalah melakukan column rename, pada column rata-rata, sesuai nama yang kita mau
+
+![](/tugas_8_eas/screenshoot/3/21.PNG)
+
+Selanjutnya dilakukan join pada data sebelumnya, sehingga menghasilkan
+
+![](/tugas_8_eas/screenshoot/3/22.PNG)
+
+Data yang di join adalah data yang berasal dari ``usage by month`` dan ``total usage``, data didapat dari data yang telah dipisah sebelumnya yang kemudian dilakukan analisa berdasarkan kebutuhan, inti dari metanode ini adalah untuk mendapatkan analisa berdasarkan data yang telah didapatkan pada metanode sebelumnya.
+
+
+### 5.5 Evaluation
+Pada evaluation akan dijalankan workflow
+
+![](/tugas_8_eas/screenshoot/3/23.PNG)
+
+Pada tahap ini dilakukan select semua data dari node sebelumnya.
+
+![](/tugas_8_eas/screenshoot/3/24.PNG)
+
+Hasilnya adalah sebagai berikut
+
+![](/tugas_8_eas/screenshoot/3/25.PNG)
+
+Selanjutnya adalah melakukan Plot K-Mean, PCA, dan memiliki hasil sebagai berikut
+
+![](/tugas_8_eas/screenshoot/3/26.PNG)
+![](/tugas_8_eas/screenshoot/3/27.PNG)
+
+
+### 5.6 Deployment
+Selanjutnya pada tahap deployment kita akan menjalankan workflow
+
+![](/tugas_8_eas/screenshoot/3/28.PNG)
+
+Pada tahap ini dilakukan perubahan data dari spark kembali mejadi hive, hasil dari data tersebut adalah sebagai berikut
+
+![](/tugas_8_eas/screenshoot/3/29.PNG)
 
 
 ## 7. Referensi                                                                
